@@ -1,0 +1,4 @@
+# El principio
+Glorantha fue creada por sus dioses a partir de *Vacio Primordial del Caos* dando lugar a la *Edad Dorada*. 
+Este periodo de paz se interrumpió cuando nacio Umath, el Aire Primordial, trayendo consigo la confusión y el temor. Pero todo empeoró con la *Guerra de los Dioses*. Las contiendas se extendieron por el universo y Orlanth, el dios de las tormenta, uso la Muerte para acabar con el Dios Sol. La oscuridad reinó en todos lados y las criaturas del inframundo gobernaron glorantha.
+El Trío Impío, Ragnaglar el loco, Thed la madre de los Broos y Malia la señora de las enfermedades liberaron el Caos en todo el mundo.  
