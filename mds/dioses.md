@@ -47,7 +47,7 @@ Sólo los Hsunchen recuerdan los tiempos en los que los humanos y los animales e
 
 Su zona de influencia es Kralorela, Fronela y la región entre Seshnela y Ralios.
 
- ### Eurmal el Embaucador
+### Eurmal el Embaucador
 
 ### El dios cazador
 
