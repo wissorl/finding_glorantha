@@ -395,4 +395,82 @@ Inkarne (nacida en 1605, Reina Caballo Emplumada desde 1625 en adelante). Hija d
 
 [grafico de las reinas caballo emplumado, pag18]
 
---- Continua en SARTAR THE FOUNDER, pag 19 ---
+## SARTAR EL FUNDADOR
+
+Sartar Ernalsarsson ya estaba bien versado en magia secreta cuando llegó a Dragon Pass desde Hendrikiland en 1470. Era una persona inusual entre las tribus a las que se acercó en ese momento, ya que se negaba a luchar y, incluso cuando era desafiado, nunca se le vio levantar un arma o usar magia ofensivamente contra otra persona. Esto no quiere decir que otros no mataran por él: la gente entre la que vivía eran adoradores de la espada, que los protegía en sus duras vidas.
+
+La magia de Sartar provenía de su dominio de la Runa del Movimiento, cuyos atributos son el cambio y el crecimiento. Era un Cambiador, y a lo largo de su carrera como creador de naciones cambió el curso de la historia y la tierra, así como aspectos más mundanos de la vida. Se dice que su magia “convertía a hombres inteligentes en jefes, a hombres buenos en seguidores leales y a enemigos en bestias de carga”. En veinte años, unió a las tribus y las transformó de ladrones pendencieros en un principado. Sartar era un maestro constructor. Fundó su capital, la famosa ciudad montañosa de Boldhome, erigiendo las murallas exteriores durante la noche, cumpliendo así una antigua profecía. Sartar fundó otras ciudades, así como templos y tesoros, y construyó carreteras casi tan buenas como la Carretera de la Hija para facilitar el comercio. Fomentó la alfabetización, la experimentación y el comercio entre su gente, que se llamaban a sí mismos Sartaritas en su honor.
+
+En 1494, Sartar, titulado Príncipe del Pueblo, se vio envuelto en una contienda con la Reina del Caballo Emplumado de los pueblos Grazer. Tales luchas a menudo ocurrían cuando una persona estaba en un camino de fama y poder, como lo estaba Sartar. La reina lo desafió a una prueba de secretos, que no pudo rechazar.
+
+En el Tiempo Sagrado al comienzo de 1495, Sartar se casó con la reina y fueron unidos en un desafío de fuerza y habilidad mágicas. El Rey Inhumano presidió la extraña ceremonia y nombró a Sartar como Rey de Dragon Pass durante el matrimonio. Desde entonces, cualquier gobernante de su dinastía ha sido Príncipe de Sartar, pero solo aquellos que se casan con la reina de los Grazers han sido llamados Rey de Dragon Pass. Después de que Sartar se casó con la Reina del Caballo Emplumado, el nuevo reino creció rápidamente en poder y privilegio.
+
+Sartar era amado por la gente común, ya que a menudo iba disfrazado entre ellos y buscaba a aquellos lo suficientemente dignos y justos para ayudar a llevar el reino hacia un buen futuro. Se hizo amigo de la Troupe de Títeres y buscó conocimiento secreto de ellos.
+
+La mayor metamorfosis de Sartar fue la de convertirse en un dios. Su camino había sido largo y peligroso, y más que un poco afortunado, durante sus años entre los guerreros sedientos de sangre. Sin embargo, había pasado todas las pruebas, acumulando lentamente todas las cosas necesarias para la apoteosis. En 1520 reunió a su familia, muchos sacerdotes y seguidores más leales en el enorme brasero de bronce cerca de su palacio con vistas al valle montañoso de Boldhome. Ante sus ojos, y los de los miles de personas más abajo, encendió la Llama de Sartar, otorgó sus últimas bendiciones e instrucciones a los más cercanos a él, y entró en las llamas donde su cuerpo fue consumido.
+
+```
+### LA TROUPE DE TITIRITEROS
+
+La Troupe de Titiriteros era, en tiempos de paz, un espectáculo ambulante de juglares con actores, malabaristas y acróbatas. Eran muy solicitados por reyes y emperadores, pero pasaban mucho más tiempo entre campesinos y esclavos. Se sabe que delicadas princesas han cruzado un chiquero y se han sentado en un montón de heno sucio para disfrutar de un espectáculo. En tiempos más estresantes, la Troupe desplegaba su fuerza interior y mostraba su verdadero poder.
+
+La Troupe de Titiriteros está entre los principales cultos de Ilusión de Glorantha. Las historias afirman que Tylenea fundó la Troupe y que una vez entretuvieron a la Corte Cósmica en la cima del Spike con sus artes y dominio de la Ilusión. En la Oscuridad Menor, Donandar, el dios de la danza y la música, los lideraba. Sus actuaciones son rituales de adoración para Donandar y Tylenea.
+
+Las burlas y sarcasmos de los juglares de la Troupe de Titiriteros a menudo hieren a los venerables o excesivamente dignos, por lo que a veces son mal vistos. Los cultos o sociedades estrictos o militantes a menudo ven a los Titiriteros como promotores de frivolidad inútil. Pero muchas personas tienen un sentido del humor y aprecian las pullas a su costa.
+
+La Troupe de Titiriteros realiza historias que tanto entretienen como insinúan un significado más alto y profundo. Son a veces escandalosos, insultantes, irrespetuosos, artificiosos y ridículos, pero también insinúan temas profundos o misterios sin revelarlos directamente. Son patrocinados por campesinos que quieren humor simple, nobles que quieren lenguaje elevado y héroes aspirantes que quieren un vistazo a los misterios cósmicos.
+
+El estilo de vida de los juglares y las troupes de titiriteros se asemeja al de los comerciantes ambulantes, y los Titiriteros son amigables con los cultistas del Dios Hablante.
+```
+
+### HON-EEL LA ARTISTA
+
+Hon-eel fue la Tercera Inspiración de Moonson, y por lo tanto puede considerarse una encarnación anterior de la semidiosa que conocemos como Jar-eel la Razoress. Cada una de las encarnaciones de Jar-eel es una brillante adaptación y presentación de los modos más finos y sutiles de existencia disponibles para los Nuevos Dioses Lunares. Jar-eel, por ejemplo, ilustra el valor y los logros artísticos en el acto divino de separación de la fuente, usando sus cuchillas afiladas y su ingenio para proyectar la luz de la luna sobre las filosofías divisorias del Mundo Exterior. En su vida anterior, como Hon-eel, tejía redes artísticas de circunstancias, manipulando la realidad a través de líneas mágicas de comunicación.
+
+En 1490 ST, Hon-eel entró milagrosamente en Tarsh, ya que apareció en el clímax de los Rituales Internos del Templo de la Tierra durante la Ceremonia de Llamado. Normalmente, esta blasfemia resultaría en el destierro a los Siete Infiernos, dejando a la víctima espiritualmente disuelta e irrecuperable. Sin embargo, no sucedió así, ya que la Suma Sacerdotisa decretó que la Diosa de la Tierra había adoptado (muchos dicen que fue obligada a adoptar) a la Luna como hija, y que en el Mundo Superficial debía ocurrir lo mismo. Hon-eel fue iniciada en los misterios exteriores, se completó la ceremonia de Primavera, y Hon-eel comenzó la destrucción de Tarsh libre.
+
+Aunque el año fue de una prosperidad sin precedentes, los templos recién establecidos de Hon-eel causaron disensión y luchas abiertas. La riqueza y la paz desaparecieron cuando el Rey Pyjeemsab de Tarsh recibió permiso de las sacerdotisas de la Tierra para casarse con la fascinante semidiosa Lunar. En 1490, después de una temporada de preparación y un ritual de una semana al que asistieron muchos dignatarios imperiales, la pareja se casó. Comenzó una inmensa celebración y la pareja desapareció en su suite nupcial.
+
+El rey nunca fue visto de nuevo. Por un tiempo, el gobierno continuó sin su rey, quien se asumió estaba totalmente absorto en la dicha matrimonial. Hon-eel emergió sola después de siete días y afirmó estar embarazada del heredero al reino. Muchos tarshitas se rebelaron abiertamente. Hon-eel reclamó la regencia en nombre de su hijo no nacido, y esta reclamación fue apoyada por su padre, el Emperador Rojo, y sus ejércitos. Aunque ayudados por aliados del nuevo reino de Sartar, Tarsh libre estaba condenado, ya que en 1496 el niño rey de cinco años, Phoronestes, supervisó la dedicación de un nuevo terreno para un Templo de la Diosa de la Luna Alcanzante. La tarea de construcción fue más difícil que la de una ciudad, y se necesitaron muchos años para su finalización.
+
+Durante el reinado del Rey Phoronestes, se fundaron muchas colonias Lunares en Tarsh, siendo la más importante la ciudad de Furthest. Phoronestes tenía su palacio allí y rápidamente se convirtió en la capital de la cultura y administración Lunar.
+
+Sin embargo, la victoria de Hon-eel no fue completa. La Diosa de la Tierra descubrió su traición y permitió que algunas partes del Viejo Tarsh permanecieran libres y fuera de la Línea de Resplandor, aliadas con el nuevo poder emergente de Sartar. Así, la ciudad de Alda-Chur cambió de dominio de Tarsh a Sartar. Los Niños del Bosque, y muchos otros, fueron expulsados de sus hogares y se refugiaron con Sartar. Los enemigos más firmes de los Lunares se llamaron a sí mismos los Exiliados de Tarsh y se fortificaron en las laderas de Kero Fin, liderados por las invictas hermanas-reinas de las Sacerdotisas del Temblor, ahora purgadas de Lunares.
+
+### LA LLAMA DE SARTAR
+
+El culto a Sartar continuó después de su apoteosis. Su voz se escuchaba en la Llama, y su magia funcionaba para sus herederos al reino. Los miembros de su familia eran los líderes del culto, y bajo su guía continuaron el crecimiento saludable del reino según las líneas establecidas por el Fundador. El espíritu de Sartar continuó viviendo en los corazones y almas de la gente, y las ciudades también asumieron vidas propias. La confederación estaba liderada por la familia de Sartar, que continuó construyendo su hermosa ciudad de Boldhome, atrayendo riqueza, esplendor y aprendizaje de todas partes. Su control del comercio entre Kethaela y Peloria los hizo ricos y poderosos.
+
+Los príncipes de Boldhome continuaron gobernando según el camino establecido por el Fundador. Construyeron carreteras, templos y fortalezas. Eran famosos por su sabiduría, sus secretos mágicos y por su generosidad. Aliados con las Reinas del Caballo Emplumado (que también eran descendientes de Sartar), dominaron Dragon Pass. En 1538, el Príncipe Saronil, hijo de Sartar, ayudó al rebelde tarshita Palashee Longaxe y al Templo del Temblor a expulsar a los Lunares de Dragon Pass. Durante diecisiete años (1538-1555), Palashee gobernó en Tarsh como aliado de la Dinastía Sartar. La dinastía Hon-eel huyó a Glamour para planear su regreso.
+
+En 1539, durante el reinado de Saronil, comenzó el evento mágico llamado el Sueño de los Dragonewts. Todos los dragonewts vivos en Dragon Pass se arrastraron a sus antiguas ciudades, las sellaron con barreras mágicas y luego desaparecieron de la vista. Durante los siguientes dos años aparecieron dragonewts fantasmales, en un número mucho mayor que los dragonewts vivos, vestidos con trajes antiguos y realizando un ritual silencioso y misterioso. En algunos casos, hicieron que otras partes de su realidad fantasma aparecieran también en el mundo material, como la Pirámide de Caran, que ha reaparecido esporádicamente desde entonces. Era posible interferir con los dragonewts fantasmas, pero tales intentos casi siempre llevaban a una severa represalia por parte de las apariciones. En aquellas ocasiones en que un ritual fue completamente interrumpido o destruido por fuerzas externas, los Dragonewts siempre intentaron al menos una vez más realizarlo de nuevo.
+
+El propósito y resultado de este sueño de cinco años es bastante desconocido, aunque se han propuesto muchas teorías. Entre otros eventos forzados por el Sueño de los Dragonewts estuvo la apertura de la antigua ciudad de Pavis, en los desiertos de Prax, después de haber sido sellada por magia troll durante siglos.
+
+El comercio y la religión unieron estrechamente a Boldhome con el País Sagrado, aún gobernado por el siempre reencarnado Belintar el Rey-Dios. Los comerciantes viajaban por los ríos y caminos desde Nochet a Boldhome, llevando mercancías hacia y desde Esrolia, Ralios y el lejano Oeste. Muchos nobles de Sartar se dedicaron al comercio, actividades religiosas y mercenarias en el País Sagrado; a su vez, muchos artistas, comerciantes, sacerdotisas y escribas llegaron a Sartar.
+
+El propio hijo de Saronil, Sarotar, murió una muerte trágica que luego fue inmortalizada en una obra de teatro kethaelana. Sarotar amaba a Arkillia, llamada “la Dama Triste” en la obra, la hija de la Reina Norina de Esrolia. Votos conflictivos de amor y deber llevaron al asesinato de Sarotar por otros pretendientes de Arkillia. El hermano y el primo de Sarotar tomaron una sangrienta venganza contra su asesino. Marlesta la Bailarina, la hija de la pareja trágica, luego renunció a su derecho de nacimiento, negó su herencia y se unió a la Troupe de Titiriteros.
+
+Dorasar, un nieto de Sartar y buen compañero de Sarotar, leyó malos presagios en la muerte de su primo. En 1550, viajó a través de los desiertos de Prax con sus compañeros y fundó la ciudad de Nueva Pavis, junto a la antigua ciudad de los gigantes. Con rituales sartaritas fundó una ciudad, consagró sus murallas y fue nombrado Señor de la Guerra de todas las personas allí. Sin embargo, la ciudad estaba demasiado lejos para ser considerada parte del reino de Sartar.
+
+
+```
+### LOS REYES LUNARES DE TARSH
+
+Aquí está la Dinastía de Tarsh de Hon-eel la Artista:
+
+**Phoronestes** es el primero. Hijo de Hon-eel la Artista, la hija del Emperador Rojo, fue rey antes de nacer. Dedicó el Templo de la Luna Alcanzante y fue alquimista y poeta. Durante su reinado, los Exiliados de Tarsh se debilitaron considerablemente. Tuvo dos hijos con su esposa Lunar, Philigos y Phargentes. Fue coronado en 1491 y murió en 1535 envenenado.
+
+**Philigos** es el segundo. Hijo de Phoronestes y Kana-Telsor. Fue el duodécimo rey de Tarsh. Un capitán pobre, perdió su reino ante un usurpador y pasó la mayor parte de su vida en Sylila. Coronado en 1535, fue derrocado por rebeldes en 1538 y murió en 1555 intentando recuperar su reino de Palashee Longaxe.
+
+**Phargentes**, hijo de Phoronestes, es el tercero. Hijo de Phoronestes y Kana-Telsor. Fue el Supervisor Provincial Lunar y el decimocuarto rey de Tarsh. Mató a dos reyes de Tarsh; dos reyes de Sartar; un rey de Balazar y un rey de Aggar. Tuvo una esposa y un hijo, Moirades. Coronado en 1555, murió pacíficamente en 1579 de vejez.
+
+**Moirades**, hijo de Phargentes, es el cuarto. Coronado en 1579, fue Rey de Dragon Pass y el decimoquinto rey de Tarsh. Derrotó a los Exiliados de Tarsh y a sus aliados sartaritas en la Batalla de Grizzly Peak. Conquistó Sartar. Alcanzó la Iluminación y usó la magia Lunar para explorar profundamente la transformación personal. Tuvo dos esposas. Con la primera, Harsta Orindori, fue padre de Pharandros; con la segunda, la Reina del Caballo Emplumado, tuvo una hija. Finalmente, engendró un hijo con Jar-eel en el momento de su liberación espiritual en 1610.
+
+**Pharandros**, hijo de Moirades y Harsta Orindori, es el rey actual. Es el decimosexto rey de Tarsh. Gobernó Sartar, y conquistó Prax y el País Sagrado, pero perdió los tres cuando el Dragón se levantó. Tiene tres hijos con su esposa Lunar. Coronado en 1610, y todavía está en el trono.
+```
+
+[grafico de la dinastía ILLARO, pag23]
+
+
+Continua en pag 24, cuadro THe Sartar King list
