@@ -11,6 +11,8 @@ Una geografía rudimentaria del continente comienza con los Desiertos de Genert,
 
 Genert engendró muchas hijas sobre la Tierra Abundante, y ellas gobiernan los poderes y riquezas de la Tierra en diferentes regiones del continente. Hay siete hijas que dan nombre a las regiones del continente:
 
+
+  
 1. Ernalda
 2. Frona, que gobierna en el noroeste;
 3. Ralia, en el centro-oeste;
@@ -61,13 +63,13 @@ El Continente del Sur del Mundo Mundano se llama Pamaltela, que significa Lugar 
 ### Paso del Dragón
  
 El Paso del Dragón se menciona mucho en este libro. Hablando en sentido estricto, El Paso del Dragón es un paso entre dos cadenas montañosas intransitables que, de otro modo, dividen las vastas llanuras del norte de las costas del sur. Hablando más ampliamente, es el país de colinas circundante que ha sido un cruce cultural desde que comenzó el Tiempo.
-	El Paso del Dragón es el corazón tradicional de la civilización Orlanthi, una de las primeras civilizaciones humanas que surgieron en la Era del Amanecer. Los Orlanthi reverencian a Orlanth, el Dios de la Tormenta (después de quien llevan su nombre), y a Ernalda, la Diosa de la Tierra. Han construido varios imperios en su larga historia, solo para desgarrarlos en conflictos fratricidas. Sus reinos tienden a ser caleidoscopios cambiantes de tribus, gobernados por sacerdotes guerreros.
+	El Paso del Dragón es el corazón tradicional de la civilización Orlanthi, una de las primeras civilizaciones humanas que surgieron en la Era del Amanecer. Los Orlanthi reverencian a Orlanth, el Dios de la Tormenta (por quien llevan su nombre), y a Ernalda, la Diosa de la Tierra. Han construido varios imperios en su larga historia, solo para desgarrarlos en conflictos fratricidas. Sus reinos tienden a ser caleidoscopios cambiantes de tribus, gobernados por sacerdotes guerreros.
 	En el centro de El Paso del Dragón se encuentra el Monte Kero Fin, la madre de Orlanth, el Rey de la Tormenta. Cerca está el Templo Shaker, el gran templo de las diosas de la Tierra protegido por la temida Maran Gor.
 	Al sur de Kero Fin se encuentran las colinas y valles de las Grazelands, gobernadas por el Pueblo del Caballo Puro y su Reina del Caballo Emplumado. Los valles están habitados por agricultores que tributan al Pueblo del Caballo Puro y están bajo la protección de la Reina del Caballo Emplumado.
 	Al oeste y al norte de Kero Fin se encuentra Tarsh, un poderoso reino gobernado desde la ciudad de Furthest por una dinastía lunar leal al Imperio Rojo. Esa parte de Tarsh más cercana a Kero Fin se niega a reconocer a los reyes lunares y se les llama los Exiliados de Tarsh.
 	Al este de Kero Fin se encuentra el Valle de las Bestias y el Pantano de las Tierras Altas. El Valle de las Bestias está habitado por los Hombres Bestia, híbridos mitad animal, mitad humano, y gobernado por el semidiós Ironhoof el Centauro. El Pantano de las Tierras Altas es una tierra fría y sombría habitada por los muertos vivientes animados por la maligna inteligencia de Delecti el Nigromante.
 	Más al este se encuentran las veinticuatro tribus del Reino de Sartar, unidas en su capital elevada en Boldhome. La lucha entre Sartar y el Imperio Lunar es la fuente de las Guerras de los Héroes, que están destinadas a poner fin a la Tercera Era de Glorantha.
-	Al este de Sartar se encuentran las llanuras de Prax, una tierra árida de chaparral y manadas de animales. Está habitada por los nómadas Praxian Animal Nomads. El Río de las Cunas es una delgada franja de tierra cultivable al este de Prax y proporciona alimento para la única ciudad notable en Prax: la Ciudad Libre de Pavis.
+	Al este de Sartar se encuentran las llanuras de Prax, una tierra árida de chaparral y manadas de animales. Está habitada por los nómadas Praxianos. El Río de las Cunas es una delgada franja de tierra cultivable al este de Prax y proporciona alimento para la única ciudad notable en Prax: la Ciudad Libre de Pavis.
 	Al sur de Sartar se encuentra Heortland, hogar de la confederación tribal Hendriki, centrada en Whitewall. Los colonos y la dinastía gobernante de Sartar provienen de entre los Hendriki.
 	Al oeste de Heortland se encuentra el Plateau de las Sombras, las ruinas oscuras del palacio del Único Anciano. Es un lugar embrujado, habitado por trolls y fantasmas del pasado.
 	Al suroeste se encuentra el Reino de Esrolia, el hogar de Ernalda, la Reina de la Tierra. Nochet, la ciudad más rica y poblada de Glorantha, domina esta tierra fértil.

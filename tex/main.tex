@@ -1,0 +1,53 @@
+% main.tex
+\documentclass{book}
+
+% Puedes añadir paquetes aquí que necesites para todo el documento
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath} % Ejemplo de paquete
+\usepackage{graphicx} % Para imágenes
+\usepackage[breakable]{tcolorbox} % Para los cuadros de texto
+
+% Aquí puedes configurar márgenes, etc.
+\usepackage[a5paper, margin=1.2cm]{geometry} %para reducir un poco los margenes ya que es un a5
+
+% Fuentes
+\usepackage{newcent}    % New Century Schoolbook como fuente principal
+\usepackage{courier}     % Courirer disponible para títulos
+\usepackage{sectsty}    % Para cambiar la fuente de las secciones
+
+% Aplicar Helvetica solo a los títulos de sección                                                                                                             
+\allsectionsfont{\ttfamily}
+
+\setcounter{secnumdepth}{0} %solo numeramos los capítulos
+
+\title{Guía de Glorantha}
+\author{wissorl}
+\date{\today}
+
+\begin{document}
+
+% Portada
+\maketitle
+
+% Tabla de Contenidos, Lista de Figuras, etc. (se generan automáticamente)
+\frontmatter % Para numeración romana en elementos preliminares
+\tableofcontents
+%\listoffigures
+%\listoftables
+% \include{prologo} % Si tienes un prólogo en archivo separado
+
+\mainmatter % Para numeración arábiga en el contenido principal
+
+% Aquí incluyes tus capítulos individuales
+\include{cap0_intro}
+\include{cap1_geografia}
+
+%\include{capitulo02_metodologia}
+%\include{capitulo03_resultados}
+% ... y así sucesivamente para cada capítulo
+
+\backmatter % Para apéndices, bibliografía, etc.
+% \include{apendiceA} % Si tienes apéndices en archivos separados
+\bibliography{referencias} % Si usas BibTeX/BibLaTeX
+\end{document}

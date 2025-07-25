@@ -1,0 +1,13 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Introducción}{1}{}%
+\contentsline {chapter}{\numberline {2}Geografía}{3}{}%
+\contentsline {section}{EL MUNDO MUNDANO}{3}{}%
+\contentsline {subsection}{GENERTELA}{3}{}%
+\contentsline {subsubsection}{Ernalda}{4}{}%
+\contentsline {subsubsection}{Frona}{5}{}%
+\contentsline {subsubsection}{Ralia}{5}{}%
+\contentsline {subsubsection}{Seshna}{7}{}%
+\contentsline {subsubsection}{Pelora}{7}{}%
+\contentsline {subsubsection}{Teshna}{8}{}%
+\contentsline {subsubsection}{Kralora}{8}{}%
+\contentsline {subsubsection}{Pamaltela}{8}{}%
