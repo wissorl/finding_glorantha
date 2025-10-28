@@ -1,6 +1,5 @@
 % main.tex
-\documentclass[10pt,twocolumn]{book} % Clase 'book' con dos columnas
-%\documentclass[b5paper,10pt,justified]{tufte-book} %estilo tufte, col central más sidenotes
+\documentclass[b5paper,10pt,justified]{tufte-book} %estilo tufte, col central más sidenotes
 
 % Puedes añadir paquetes aquí que necesites para todo el documento
 \usepackage[utf8]{inputenc}
@@ -10,16 +9,7 @@
 \usepackage[breakable]{tcolorbox} % Para los cuadros de texto
 
 % Aquí puedes configurar márgenes, etc.
-%\usepackage[margin=1.2cm]{geometry} % apaisado con margen de 1.2
-% --- Configuración del tamaño del papel y los márgenes con geometry ---
-\usepackage[
-  paperwidth=182mm,     % Ancho del papel Jūbako
-  paperheight=206mm,    % Alto del papel Jūbako
-  margin=1.5cm,         % Margen uniforme de 1.5 cm en todos los lados
-  columnsep=0.7cm,      % Separación entre columnas (puedes ajustarlo)
-  showframe             % Opcional: muestra los marcos para verificar el diseño
- ]{geometry}
-
+\usepackage[margin=1.2cm]{geometry} % apaisado con margen de 1.2
 
 % Fuentes
 \usepackage{newcent}    % New Century Schoolbook como fuente principal
@@ -30,38 +20,6 @@
 \allsectionsfont{\ttfamily}
 
 \setcounter{secnumdepth}{0} %solo numeramos los capítulos
-
-
-\usepackage[most]{tcolorbox}
-
-% Definición de un nuevo entorno para el cuadro de texto que ocupa dos columnas y es rompible
-% Usamos \onecolumn y \twocolumn para que el tcolorbox ocupe el ancho total del texto.
-\newenvironment{GloranthaInfoBox}[1]{%
-  \begin{figure*}[ht!] % Usa figure* para un objeto flotante de ancho completo
-    \centering
-    \begin{tcolorbox}[
-      breakable,
-      colback=gray!5,
-      colframe=gray!40,
-      boxrule=0.8pt,
-      title=#1,
-      fonttitle=\bfseries,
-      enhanced,
-      sharp corners=northwest,
-      sharp corners=northeast,
-      rounded corners=southwest,
-      rounded corners=southeast,
-      width=\textwidth,
-      left=3mm, right=3mm, top=3mm, bottom=3mm,
-      before skip=0pt,
-      after skip=0pt,
-    ]%
-}{%
-    \end{tcolorbox}%
-  \end{figure*}%
-}
-
-
 
 \title{Guía de Glorantha}
 \author{wissorl}

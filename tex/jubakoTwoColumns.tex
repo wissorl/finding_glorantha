@@ -1,0 +1,103 @@
+\documentclass[10pt,twocolumn]{book} % Clase 'book' con dos columnas
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}     % Para enlaces
+\usepackage{graphicx}     % Para incluir imágenes
+\usepackage{lipsum}       % Para texto de relleno si lo necesitaras, aunque no lo usaremos activamente.
+
+% --- Configuración del tamaño del papel y los márgenes con geometry ---
+\usepackage[
+  paperwidth=182mm,     % Ancho del papel Jūbako
+  paperheight=206mm,    % Alto del papel Jūbako
+  margin=1.5cm,         % Margen uniforme de 1.5 cm en todos los lados
+  columnsep=0.7cm      % Separación entre columnas (puedes ajustarlo)
+  %showframe             % Opcional: muestra los marcos para verificar el diseño
+]{geometry}
+
+% --- Paquete tcolorbox para cuadros de texto avanzados ---
+\usepackage[most]{tcolorbox}
+
+% Definición de un nuevo entorno para el cuadro de texto que ocupa dos columnas y es rompible
+% Usamos \onecolumn y \twocolumn para que el tcolorbox ocupe el ancho total del texto.
+\newenvironment{GloranthaInfoBox}[1]{%
+  \begin{figure*}[ht!] % Usa figure* para un objeto flotante de ancho completo
+    \centering
+    \begin{tcolorbox}[
+      breakable,
+      colback=gray!5,
+      colframe=gray!40,
+      boxrule=0.8pt,
+      title=#1,
+      fonttitle=\bfseries,
+      enhanced,
+      sharp corners=northwest,
+      sharp corners=northeast,
+      rounded corners=southwest,
+      rounded corners=southeast,
+      width=\textwidth,
+      left=3mm, right=3mm, top=3mm, bottom=3mm,
+      before skip=0pt,
+      after skip=0pt,
+    ]%
+}{%
+    \end{tcolorbox}%
+  \end{figure*}%
+}
+
+% --- Información del Documento ---
+\title{Guía Preliminar: El Paso del Dragón en Glorantha (Dos Columnas Jūbako)}
+\author{Tu Nombre}
+\date{} % Para evitar que aparezca la fecha de compilación
+
+\begin{document}
+\maketitle
+
+\section{Introducción al Corazón de Dragon Pass}
+
+El Paso del Dragón es una de las reiones más emblemáticas y turbulentas de Glorantha, un crisol de culturas, magias y conflictos que ha moldeado el destino de los mortales durante milenios. Este extenso valle fluvial, flanqueado por las imponentes Montañas del Cuerno de Dragón al oeste y las Colinas Rubias al este, ha sido históricamente un puente entre el oeste bárbaro y el este civilizado. Su geografía variada, desde fértiles llanuras hasta densos bosques y páramos rocosos, alberga una riqueza de vida y, crucialmente, de poder espiritual.
+
+La historia del Paso está intrínsecamente ligada a la presencia de los Dragones. Este vínculo ancestral con seres primigenios ha dotado a la región de una energía única, atrayendo a diversas facciones y linajes. El aire mismo parece vibrar con magia, lo que lo convierte en un lugar de inmensa oportunidad y peligro constante. Es una tierra de héroes y villanos, de civilizaciones perdidas y de imperios nacientes, donde el pasado es siempre una sombra presente y el futuro se forja con sangre y magia.
+
+
+\section{Los Pueblos del Paso}
+
+El Paso del Dragón es un mosaico de pueblos, cada uno con sus propias tradiciones, dioses y aspiraciones. La interacción, y a menudo el conflicto, entre estos grupos define gran parte de la dinámica de la región.
+
+\begin{GloranthaInfoBox}{Pueblos del Paso del Dragón: Detalles Adicionales}
+\textbf{Los Dragones:} No son simples bestias en Glorantha, sino seres elementales de inmenso poder, encarnaciones del caos primordial que a menudo duermen bajo la tierra, pero cuya influencia es palpable. Su despertar puede alterar la geografía y la historia de una era.
+
+\textbf{Los Orlanthi:} Adoradores del dios del trueno Orlanth, son un pueblo tribal y guerrero, con un fuerte sentido del honor y una profunda conexión con el ciclo de las estaciones y los elementos. Su sociedad está organizada en clanes y tribus, con un énfasis en las asambleas de guerreros y la tradición oral.
+
+\textbf{Los Lunares:} El Imperio Lunar es una teocracia expansiva que adora a la Diosa Roja. Su influencia se basa en un ejército bien organizado, una burocracia eficiente y una filosofía de asimilación cultural. A menudo chocan con los Orlanthi por el control del Paso del Dragón.
+
+\textbf{Aldryami (Elfos) y Mostali (Enanos):} Los Aldryami son los Hijos de la Planta, seres etéreos conectados con el mundo natural. Los Mostali son los Hijos de la Roca, maestros de la forja y la construcción, con fortalezas subterráneas. Ambos pueblos tienen sus propios conflictos y agendas, a menudo ignorando las disputas humanas.
+
+\textbf{Morokanth y Dragonewts:} Los Morokanth son una raza de humanos bestiales, a menudo nómadas, con una relación compleja con la civilización. Los Dragonewts son una de las razas más antiguas y enigmáticas de Glorantha, con un ciclo de vida que los transforma y les otorga diferentes niveles de comprensión cósmica.
+\end{GloranthaInfoBox}
+
+Los **Orlanthi**, también conocidos como los bárbaros de las Colinas Rubias, son quizás los habitantes más numerosos y belicosos. Se aferran a sus antiguas costumbres y a la adoración de las deidades de la Tormenta, resistiendo la influencia de imperios externos. Su vida está marcada por los ritos estacionales, las sagas de héroes y la eterna lucha por su libertad.
+
+Los **Lunares**, el brazo del vasto Imperio Lunar, representan la fuerza de la civilización y la hegemonía. Han establecido fortalezas y ciudades en el Paso, buscando controlar sus recursos y expandir su influencia. Su presencia es una fuente constante de tensión, con enfrentamientos frecuentes por tierras y alianzas.
+
+En las profundidades de las Montañas del Cuerno de Dragón residen los misteriosos **Aldryami** (Elfos) y los robustos **Mostali** (Enanos). Raramente se involucran en los conflictos humanos, prefiriendo sus propias sendas ancestrales. Los Elfos protegen los antiguos bosques con una ferocidad silenciosa, mientras que los Enanos trabajan sus minas en busca de secretos y metales preciosos, inmersos en sus propias guerras de la creación.
+
+También encontramos a los **Morokanth**, una gente bestial que deambula por las tierras salvajes, y los vestigios de civilizaciones antiguas, como los **Dragonewts**, seres reptilianos de gran antigüedad y sabiduría incomprensible. Cada uno de estos grupos contribuye a la intrincada red de vida y poder que define el Paso del Dragón. Su coexistencia, a menudo precaria, es un testimonio de la riqueza y la complejidad de Glorantha.
+
+\begin{figure*}[ht!]
+    \centering
+    \includegraphics[width=\textwidth]{dragonpass.jpg}
+    \caption{Aquí va el título o la descripción de la imagen.}
+    \label{fig:dragonpass_map}
+\end{figure*}
+
+\section{Introducción al Corazón de Dragon Pass segunda parte}
+
+Betis El Paso del Dragón es una de las reiones más emblemáticas y turbulentas de Glorantha, un crisol de culturas, magias y conflictos que ha moldeado el destino de los mortales durante milenios. Este extenso valle fluvial, flanqueado por las imponentes Montañas del Cuerno de Dragón al oeste y las Colinas Rubias al este, ha sido históricamente un puente entre el oeste bárbaro y el este civilizado. Su geografía variada, desde fértiles llanuras hasta densos bosques y páramos rocosos, alberga una riqueza de vida y, crucialmente, de poder espiritual.
+
+La historia del Paso está intrínsecamente ligada a la presencia de los Dragones. Este vínculo ancestral con seres primigenios ha dotado a la región de una energía única, atrayendo a diversas facciones y linajes. El aire mismo parece vibrar con magia, lo que lo convierte en un lugar de inmensa oportunidad y peligro constante. Es una tierra de héroes y villanos, de civilizaciones perdidas y de imperios nacientes, donde el pasado es siempre una sombra presente y el futuro se forja con sangre y magia.
+
+
+
+
+
+\end{document}

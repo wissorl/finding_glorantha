@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.5.30)  25 JUL 2025 14:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.5.30)  3 SEP 2025 14:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -450,9 +450,19 @@ LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
 )
-LaTeX Font Info:    Trying to load font information for OT1+pnc on input line 2
-8.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pnc.fd
+
+! LaTeX Error: Option clash for package tcolorbox.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 
+     
+? 
+LaTeX Font Info:    Trying to load font information for OT1+pnc on input line 7
+0.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pnc.fd
 File: ot1pnc.fd 2001/06/04 font definitions for OT1/pnc.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -466,22 +476,22 @@ LaTeX Info: Redefining \% on input line 8.
  (./cap0_intro.aux) (./cap1_geografia.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Info: Redefining \. on input line 28.
-LaTeX Info: Redefining \% on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -507,46 +517,52 @@ e
 ))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a5paper
+* paper: custom
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(34.14322pt, 352.81435pt, 34.14322pt)
-* v-part:(T,H,B)=(34.14322pt, 529.22144pt, 34.14322pt)
-* \paperwidth=421.10078pt
-* \paperheight=597.50787pt
-* \textwidth=352.81435pt
-* \textheight=529.22144pt
-* \oddsidemargin=-38.12677pt
-* \evensidemargin=-38.12677pt
-* \topmargin=-68.19426pt
+* modes: twoside showframe 
+* h-part:(L,W,R)=(42.67912pt, 432.4819pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 500.76852pt, 42.67912pt)
+* \paperwidth=517.84015pt
+* \paperheight=586.12677pt
+* \textwidth=432.4819pt
+* \textheight=500.76852pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-59.65836pt
 * \headheight=12.0pt
 * \headsep=18.06749pt
 * \topskip=10.0pt
 * \footskip=25.29494pt
-* \marginparwidth=125.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
+* \marginparwidth=48.0pt
+* \marginparsep=10.0pt
+* \columnsep=19.91684pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
-* \@twocolumnfalse
+* \@twocolumntrue
 * \@twosidetrue
 * \@mparswitchtrue
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-[1
+ [1
+
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
 
+
 ]
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 3
-5.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 7
+7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
@@ -560,23 +576,32 @@ LaTeX Info: Redefining \% on input line 1.
 
 [1
 
+
 ]
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
+LaTeX Info: Redefining \. on input line 82.
+LaTeX Info: Redefining \% on input line 82.
  [2
+
 
 ]
 \openout2 = `cap0_intro.aux'.
 
  (./cap0_intro.tex
 Cap\'{\i }tulo 1.
+
+Underfull \hbox (badness 1776) in paragraph at lines 16--17
+\OT1/pnc/m/n/10 Glo-rantha, or-ga-ni-za-da prin-ci-pal-men-te
+ []
+
 [1
 
 
 ])
-LaTeX Info: Redefining \. on input line 43.
-LaTeX Info: Redefining \% on input line 43.
- [2]
+LaTeX Info: Redefining \. on input line 85.
+LaTeX Info: Redefining \% on input line 85.
+ [2
+
+]
 \openout2 = `cap1_geografia.aux'.
 
  (./cap1_geografia.tex
@@ -587,27 +612,40 @@ Cap\'{\i }tulo 2.
 
 
 ]
-LaTeX Info: Redefining \. on input line 43.
-LaTeX Info: Redefining \% on input line 43.
+LaTeX Info: Redefining \. on input line 53.
+LaTeX Info: Redefining \% on input line 53.
  [4]
-LaTeX Info: Redefining \. on input line 81.
-LaTeX Info: Redefining \% on input line 81.
- [5]
-LaTeX Info: Redefining \. on input line 81.
-LaTeX Info: Redefining \% on input line 81.
+
+! Package pgfkeys Error: I do not know the key '/tcb/enhanced' and I am going t
+o ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \begin{GloranthaInfoBox}{Paso del Dragón}
+                                               
+? 
+
+LaTeX Warning: Float too large for page by 48.69803pt on input line 78.
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 81--82
+[]\OT1/pnc/m/n/10 Seshna est[]a ro-dea-da por tres la-dos de
+ []
+
+LaTeX Info: Redefining \. on input line 101.
+LaTeX Info: Redefining \% on input line 101.
+[5])
+LaTeX Info: Redefining \. on input line 86.
+LaTeX Info: Redefining \% on input line 86.
  [6]
-LaTeX Info: Redefining \. on input line 104.
-LaTeX Info: Redefining \% on input line 104.
+LaTeX Info: Redefining \. on input line 86.
+LaTeX Info: Redefining \% on input line 86.
  [7]
-LaTeX Info: Redefining \. on input line 120.
-LaTeX Info: Redefining \% on input line 120.
- [8])
-LaTeX Info: Redefining \. on input line 44.
-LaTeX Info: Redefining \% on input line 44.
- [9]
-LaTeX Info: Redefining \. on input line 50.
-LaTeX Info: Redefining \% on input line 50.
- [10
+LaTeX Info: Redefining \. on input line 92.
+LaTeX Info: Redefining \% on input line 92.
+ [8
 
 
 
@@ -618,23 +656,23 @@ LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
  (./cap0_intro.aux) (./cap1_geografia.aux)) ) 
 Here is how much of TeX's memory you used:
- 14838 strings out of 480112
- 296311 string characters out of 5892631
- 589334 words of memory out of 5000000
- 32531 multiletter control sequences out of 15000+600000
+ 14869 strings out of 480112
+ 297177 string characters out of 5892631
+ 598070 words of memory out of 5000000
+ 32558 multiletter control sequences out of 15000+600000
  488655 words of font info for 73 fonts, out of 8000000 for 9000
  85 hyphenation exceptions out of 8191
- 83i,7n,89p,683b,675s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,6n,89p,683b,748s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fon
 ts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/courier
 /ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/ncntrsbk/uncri8a.pfb>
-Output written on main.pdf (14 pages, 92052 bytes).
+Output written on main.pdf (12 pages, 93173 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 72 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

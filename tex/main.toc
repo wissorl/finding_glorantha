@@ -4,10 +4,10 @@
 \contentsline {section}{EL MUNDO MUNDANO}{3}{}%
 \contentsline {subsection}{GENERTELA}{3}{}%
 \contentsline {subsubsection}{Ernalda}{4}{}%
-\contentsline {subsubsection}{Frona}{5}{}%
+\contentsline {subsubsection}{Frona}{4}{}%
 \contentsline {subsubsection}{Ralia}{5}{}%
-\contentsline {subsubsection}{Seshna}{7}{}%
-\contentsline {subsubsection}{Pelora}{7}{}%
-\contentsline {subsubsection}{Teshna}{8}{}%
-\contentsline {subsubsection}{Kralora}{8}{}%
-\contentsline {subsubsection}{Pamaltela}{8}{}%
+\contentsline {subsubsection}{Seshna}{5}{}%
+\contentsline {subsubsection}{Pelora}{5}{}%
+\contentsline {subsubsection}{Teshna}{6}{}%
+\contentsline {subsubsection}{Kralora}{6}{}%
+\contentsline {subsubsection}{Pamaltela}{6}{}%
