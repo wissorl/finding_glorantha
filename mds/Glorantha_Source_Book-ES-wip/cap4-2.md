@@ -745,7 +745,7 @@ Sin embargo, sus colegas consideraron que había sido un fracaso, debido a la ab
 
 Sin su apoyo, el templo quebró y fue condenado a la demolición. No obstante, la tierra de Slontos se hundió bajo el mar antes de que pudiera ser derribado. Algunos embaucadores afirman que su culto fue el responsable. Como los embaucadores que defendían el templo también acabaron bajo las olas, muchos ponen en duda sus afirmaciones; otros sostienen, por el contrario, que recibieron su merecido.
 
-# FLESH MAN
+## FLESH MAN
 
 Flesh Man era un hombre mortal al que la Muerte había llevado a la locura. Había visto morir al Abuelo Mortal, después contempló la muerte de Yelm y, finalmente, tuvo una visión de la muerte del mundo entero. Condujo a los Portadores de la Luz al Inframundo, donde fue asesinado. Pero la Muerte no puso fin a su búsqueda, pues fue atraído hacia los Salones de los Muertos. Ayudó a establecer el Gran Compromiso, razón por la cual todos los mortales poseen tanto Vida como Muerte.
 
@@ -765,4 +765,386 @@ Heler, como muchos de los Dioses del Agua, es de color azul. Por lo general se l
 
 En ocasiones, Heler aparece representado como una divinidad guerrera, aunque rara vez se le muestra como un combatiente eficaz. Su importancia reside, sobre todo, en su papel de auxiliar de Orlanth. Su nombre es sinónimo de lealtad entre los adoradores de Orlanth, y ser «firme como Heler» constituye un gran elogio.
 
-[Vamos por la página 119 ISSARIES]
+## ISSARIES
+
+Issaries es el Dios de la Palabra, Señor del Comercio, Guardián de los Caminos, Mensajero de los Dioses y psicopompo de los orlanthis. Es hijo de Larnste y Harana Ilor, y obtuvo la protección de Orlanth durante la Guerra de los Dioses. Durante aquella guerra, Issaries desempeñó diversos papeles y apareció en lugares muy distintos. En ocasiones actuó como mediador, como cuando resolvió una de las primeras disputas entre Yelm y Orlanth. Otras veces contribuyó al esfuerzo bélico, como cuando enseñó a Orlanth la magia de la poesía a cambio de su protección. Issaries se unió a los Siete Portadores de la Luz y partió en busca de la luz de la comunicación, necesaria para reavivar el mundo.
+
+Los iniciados de su culto son comerciantes y heraldos, protegidos por la reputación y el poder de su dios. La lengua del culto, el Habla Comercial (Trade Talk), fue difundida por los Aprendices de Dioses y se habla como segunda lengua en gran parte de Glorantha. Issaries suele ser adorado al margen del resto del panteón orlanthi, y su culto está presente en casi todo el mundo civilizado.
+
+## LHANKOR MHY
+
+Lhankor Mhy es el dios de los Señores Grises, los sabios de Glorantha. Entre sus títulos figuran Guardián de las Leyes, Escriba de los Inmortales y Cantor de la Historia. Lhankor Mhy puede discernir y enunciar la Ley Cósmica que rige a los dioses, así como las leyes que sus adoradores deben obedecer para sobrevivir. Inventó la escritura para que otros pudieran acceder a sus pensamientos y escribió el Libro Eterno, que contiene los fundamentos de todo conocimiento.
+
+Lhankor Mhy es uno de los Siete Portadores de la Luz y, durante aquella búsqueda épica, heredó, encontró, conquistó y robó numerosos fragmentos de los antiguos poderes. Los conservó a buen recaudo hasta el comienzo del Tiempo. Incluso custodia los sagrados Rollos de Piedra, forjados en el Inframundo para ocultar los secretos del Compromiso a las almas inmaduras. Aun así, su conocimiento no es completo, y tanto él como su culto siguen sedientos de saber más.
+
+## ODAYLA, EL CAZADOR
+
+Odayla es hijo de Orlanth y de la Dama de las Tierras Salvajes, una oscura divinidad menor. Los relatos sobre él se parecen mucho a los de otros dioses cazadores, en especial a los del culto del Niño Encontrado. Sin embargo, Odayla es siempre una divinidad orlanthi y suele considerársele hijo de Orlanth. Una diferencia importante es que su culto sustituye los perros del Niño Encontrado por gatos de las sombras.
+
+## MASTAKOS
+
+Mastakos es el auriga de Orlanth, quien lo capturó en el Pozo de la Sabiduría de Daliath. Mastakos viaja continuamente por todo el mundo, pero siempre que Orlanth lo llama aparece al instante para servirle. En una ocasión, Mastakos viajó desde Kero Fin hasta la Isla Negra de la Inspiración en tan solo ocho pasos.
+
+## VINGA
+
+Vinga es un aspecto de Orlanth: la diosa guerrera de las mujeres que asumen las tareas violentas y mortíferas que normalmente realizan los hombres. En algunos relatos es hija de Orlanth y Ernalda; en otros, es Orlanth bajo forma femenina. Empuña las armas de Orlanth y es una de las más belicosas de los Hermanos del Trueno.
+
+## VINGKOT EL VICTORIOSO
+
+Vingkot es hijo de Orlanth y Janerra la Solitaria, y nació durante la Edad de las Tormentas. A menudo se le menciona como uno de los campeones de Orlanth y se le considera el cuarto mayor guerrero de su séquito. Los otros tres son Humakt, el Toro Tempestuoso y Vadrus.
+
+Orlanth nombró a su hijo Vingkot rey del mundo mortal y le entregó una Espada y un Yelmo mágicos que le otorgaban la victoria. Vingkot se casó con dos hijas de Tada, soberano de la sagrada Prax, conocidas como la Esposa del Verano y la Esposa del Invierno. Los hijos que tuvo con ellas fueron héroes y fundadores de las tribus vingkotlingas. Kodig, su hijo mayor con la Esposa del Verano, nació en Nochet.
+
+Vingkot murió combatiendo durante la Gran Oscuridad, pero su cuerpo fue incinerado para que su alma permaneciera libre para siempre y pudiera acudir a la llamada de sus descendientes y seguidores. Antes de reunirse con su padre, Vingkot nombró a Kodig rey de los vingkotlingas y le entregó la Espada y el Yelmo. Kodig los transmitió a sus herederos, el clan real de los kodigvari.
+
+La dinastía de Kodig gobernó desde su palacio en Nochet, y los kodigvari reclamaron las fértiles tierras de Esrola. Los vingkotlingas fueron grandes señores de la guerra y poderosos hechiceros. Cuando los mares retrocedieron ante Orlanth, conquistaron gran parte del mundo y combatieron contra la Oscuridad, que no dejaba de extenderse.
+
+El quinto y último rey de los vingkotlingas fue Rastagar, un hombre imperfecto que insultaba a su esposa y mantenía disputas con su propio consejo. Su esposa conspiró con el campeón del rey para derrocar al orgulloso monarca. Ambos traicionaron a Rastagar y robaron la Espada y el Yelmo.
+
+Cuando el rey reunió a su ejército para defender el reino de una hueste del Caos, descubrió que le habían arrebatado ambos objetos. En la batalla conocida como la Última Traición Real (Last Royal Betrayal), parte de su ejército lo abandonó, y Rastagar y todo el clan real de los vingkotlingas fueron masacrados. Las Matriarcas de Esrolia, viudas de aquella batalla, tomaron el poder para protegerse y eligieron a una reina que gobernara desde Nochet.
+
+## VORIOF, EL PASTOR
+
+Voriof es hijo de Orlanth y Ernalda. Se dice que cuida de las ovejas de Orlanth, y todos lo invocan para que proteja sus rebaños en los pastos. Según la tradición, las ovejas son animales acuáticos que Orlanth robó, presumiblemente porque su lana recuerda a las nubes. Voriof aprendió su oficio de un hermano mayor llamado Varnaval, que también era pastor.
+
+## YINKIN, EL GATO
+
+Yinkin es el dios de los gatos de las sombras. Es amigo desde antiguo y medio hermano de Orlanth, y ambos aparecen juntos en numerosas aventuras, sobre todo durante la juventud de Orlanth. El culto a Yinkin está asociado al de Orlanth, y sus adeptos crían y adiestran a los animales especiales que utilizan los orlanthis en todas partes. Muchas familias remontan su linaje hasta Yinkin.
+
+
+# LOS SEÑORES DEL TERROR
+
+## EL NACIMIENTO DEL CAOS
+
+La creciente inestabilidad empeoró las condiciones de vida de los dioses y los hombres que anhelaban la paz y la seguridad. Las primeras perturbaciones se vieron aceleradas por Ratslaf, dios del Desorden, y su raza de criaturas conocidas como boggles. Algunos atribuyen todos los males a Ratslaf y sus seguidores, pero hacerlo solo desvía la atención de los verdaderos culpables: los propios dioses, que persistieron en actuar contra sus propios intereses.
+
+Poco a poco comenzaron a aparecer nuevas criaturas en el mundo. Al principio, parecía que se filtraban a través de las grietas de la lógica del universo, rezumando por ellas e infectando tanto la superficie como el interior de la realidad.
+
+Una de estas criaturas es bien conocida por los relatos. Se desconoce su verdadero nombre, pero siempre se la llama Krarsht. Es posible que fuera la criatura que Larnste vio en una ocasión: «una pequeña cosa repugnante, que se retorcía, horrible a la vista y al olfato, tendida en el suelo y capaz de convertir el polvo en ceniza». El dios del Movimiento la pisoteó, con la esperanza de destruirla bajo sus pisadas divinas, pero aquella criatura viscosa lo mordió y le perforó la piel. Larnste quedó infectado de inmediato y, desde entonces, cojeó cada vez que se movía. Peor aún, su sangre también quedó infectada. Allí donde caía al suelo, dejaba tras de sí una inmunda charca de podredumbre. El lugar donde había estado el monstruo quedó empapado de icor contaminado y jamás volvió a sanar. Aquel sitio recibió el nombre de Huella de Larnste (Larnste’s Footprint) y se encuentra en el País Sagrado.
+
+También se produjeron otras incursiones menores de esta naturaleza, pero no consiguieron causar al mundo más daño del que los propios dioses se infligían entre sí.
+
+## LA CONSPIRACIÓN DEL TRÍO IMPÍO
+
+Se dice que uno de los dioses que vivieron en aquella época fue el último de los Dioses Jóvenes en nacer. Se llamaba Rashoran y nadie conoce su ascendencia. Al principio, Rashoran se dedicó a calmar a los dioses aterrados y a enseñarles a no tener miedo. Según se cuenta, era el único ser de todo el cosmos que no temía aquello que desconocía. Transmitió este conocimiento a otros dioses. La mayoría sucumbió a la Oscuridad sin oponer resistencia después de aprender de Rashoran, aunque algunos, como Humakt y Uleria, parecen haberse fortalecido gracias a sus enseñanzas. Otros tres descubrieron que tampoco sentían miedo y que podían aprovechar los temores ajenos en beneficio propio. Una de sus primeras acciones fue destruir a Rashoran para mantener su secreto exclusivamente para ellos.
+
+Estos asesinos pasaron a ser conocidos como el Trío Impío. Los movían el odio, el egoísmo, la codicia y los celos. Hoy se considera que estas emociones mezquinas son síntomas del Caos en el mundo. Fueron los tres quienes las originaron, concentrando sus fuerzas y voluntades para crear algo nuevo.
+
+El primero del trío era Ragnaglar, a quien algunos consideran pariente del Toro Tempestuoso. Los celos y sus propios actos deshonrosos lo habían conducido al odio. La segunda era Thed, de quien se dice que en otro tiempo fue esposa de Ragnaglar. La tercera era Mallia, otra diosa dotada de grandes poderes relacionados con el nacimiento y el crecimiento. Los tres unieron sus fuerzas y pervirtieron sus propias naturalezas para forjar su arma de odio y venganza.
+
+El Trío Impío provocó el fin del mundo. Ejecutaron un gran ritual mágico de un poder muy superior a todo cuanto se había realizado hasta entonces, pues habían descubierto el prodigio y la fuerza del Caos Primordial y lo utilizaron mediante la magia para fortalecerse ante lo que estaba por venir. A continuación, llevaron a cabo sus rituales de nacimiento del Caos. Cuando concluyeron, el mundo había cambiado y nuevas fuerzas recorrían sus tierras.
+
+## EL DIABLO: WAKBOTH Y KAJABOR
+
+El fruto de aquel ritual fue el Diablo, engendrado por almas corrompidas. Los documentos y las tradiciones orales de los cultos de la Tormenta, la Oscuridad y la Tierra llaman Wakboth a esta criatura. Después de él, nacieron en el mundo otras deidades y espíritus del Caos y la destrucción.
+
+Wakboth el Diablo representa el mal moral del mundo. Esta entidad aterradora e irracional nace del desprecio absoluto por la vida y promueve una destrucción brutal e incesante. Retorcido y repugnante, Wakboth es el corruptor del mundo. Su mera existencia constituía una afrenta, pues el mundo ya estaba condenado, y él no hizo sino agravar el sufrimiento de todos los implicados. A corto plazo, Wakboth ofrecía enormes ventajas a sus seguidores y, dominados por el miedo, muchos habitantes del mundo se unieron a él. De este modo, el Caos acrecentó su poder y llevó a toda la creación al borde de la catástrofe.
+
+Kajabor fue otro de los grandes enemigos de aquella era. En algunos documentos antiguos se le llama erróneamente «Inframundo», confundiéndolo con Wakboth. Ambos se parecen en ciertos aspectos: durante un breve periodo fueron grandes dioses, tuvieron numerosos adoradores y acabaron volviéndose contra sus propios seguidores. Sin embargo, hay que comprender que Kajabor lo hizo porque no tenía otra elección, mientras que Wakboth lo hizo por puro deleite.
+
+Kajabor ejerce el poder de la entropía en el mundo. A menudo recibe los nombres de Asesino de Dioses, Agujero Negro o Gran Terror. Destruye todo vestigio de materia o energía, aniquilando cualquier posibilidad de individualidad o unidad.
+
+Los seres asesinados por Kajabor nunca han regresado. A menudo, incluso sus nombres se han perdido después de ser arrancados del universo.
+
+Kajabor es el Gran Terror, y el miedo que inspira desempeñó un papel importante en las acciones de los dioses. Algunos afirman que ese Gran Terror impulsa a los hombres y a los dioses a entregarse a corrupciones como la de Wakboth. Por estas razones, Kajabor es tan enemigo como el propio mal verdadero, pese a ser una fuerza completamente impersonal que, según algunos, resulta tan natural como las fuerzas de la creación.
+
+## LA ÚLTIMA RESISTENCIA DE LOS DIOSES (THE GODS’ LAST STAND)
+
+Se cree que varios lugares fueron el origen de los ejércitos del Caos que comenzaron a arrollar el mundo. La mayoría se encuentra en los confines más remotos de Glorantha, donde las fuerzas del orden eran más débiles. Las leyendas de Genertela cuentan que el principal ejército del Caos avanzó desde el norte, dirigido por Kajabor.
+
+Los dioses que sobrevivieron eran guerreros y líderes destacados, curtidos en las penalidades de la guerra y la muerte. Una gran alianza de divinidades se reunió en los Campos de la Abundancia para combatir a aquellos nuevos enemigos. Genert encabezaba el ejército de los dioses. Este dios de la Tierra era el espíritu de mayor rango entre los presentes, aunque no el combatiente más formidable. Entre quienes lo acompañaban estaban el Espléndido Yamsur, hijo del Sol, y Seolinthur, dios fluvial del reino de Genert. Les decepcionó que otros no acudieran a la batalla, entre ellos sus aliados el Toro Tempestuoso y Tada, así como sus amigos de la Corte Celestial.
+
+Las fuerzas del Caos alcanzaron una victoria absoluta. Los dioses desaparecieron en un torbellino de fuerzas hasta entonces desconocidas. Sus cuerpos se transformaron en gorp y sus almas fueron abrasadas por el Grito Mortal. Los Campos de la Abundancia quedaron contaminados para siempre y desde entonces se conocen como el Pantano de los Krjalki. Los mortales que intentaron escapar de aquella derrota fueron salvados por Genert, que transformó a muchos de sus seguidores en una nube de cobre punzante que protegió a los supervivientes. Su sacrificio aún puede contemplarse en los yermos de Genert, donde aparecen las Arenas de Cobre.
+
+Aunque estaban curtidos en la Muerte, los habitantes de la Edad de las Tormentas quedaron conmocionados, del mismo modo que lo habían estado los de la Edad Dorada. La Muerte verdadera, la entropía divina, hizo que algunos dioses huyeran, que otros cayeran en la inacción y que otros se entregaran a una defensa aún más encarnizada. Muchos buscaron refugio en la Aguja, confiando en que la antigua Corte Celestial los protegería.
+
+Desde todas direcciones, los ejércitos del Caos convergieron hacia la Aguja. Sus habitantes se prepararon para una defensa valerosa, aunque desesperada. La Aguja, hasta entonces inexpugnable, se resquebrajó y gimió bajo el abuso al que estaba sometida. Los poderes más antiguos del cosmos estaban decrépitos y se mostraban indiferentes. Los Dioses Jóvenes hicieron cuanto pudieron, y lo hicieron bien: consiguieron retrasar al Caos y descubrir algunos secretos para combatirlo. Pero Kargan Tor abandonó su puesto, y las hordas del Caos se deslizaron por las brechas que había dejado, penetrando hasta el corazón de la estabilidad.
+
+Los dioses lucharon con ferocidad, desesperados por el miedo, pero los ejércitos del Caos pronto avanzaron por los corredores y penetraron en las cámaras donde la Corte Celestial aguardaba su final. Las fuerzas del Caos irrumpieron sobre los poderes de la creación, destrozaron las antiguas Runas y las dispersaron a los cuatro vientos. Los dioses y las diosas cayeron, despedazados a golpes o sometidos a otras atrocidades por sus enemigos.
+
+La lucha final liberó energías turbulentas que habían permanecido sometidas y retorcidas durante eones de abuso divino. Una explosión cósmica liberó aquella presión y vaporizó la Aguja junto con todos sus habitantes. En el centro del mundo se abrió un enorme vacío, del que surgieron los dioses del Caos. Así comenzó la Gran Oscuridad.
+
+## LA GRAN OSCURIDAD
+
+La Gran Oscuridad fue la Edad del Terror. Para la mayoría de los seres de Glorantha, supuso el fin del mundo; para los demás, fue una época de dolor, miedo y miseria. Algunas regiones del mundo desaparecieron. Otras quedaron aisladas y a la deriva en una existencia informe y sin esperanza. Nada ofrecía seguridad, ni siquiera el cambio era fiable.
+
+La destrucción de la Aguja marca el comienzo de esta era, pues la explosión sacudió el mundo hasta sus cimientos y determinó las últimas luchas de numerosos dioses.
+
+Al principio, el vacío abierto en el centro del mundo amenazó con devorarlo todo. Sin embargo, muchas divinidades se sacrificaron, arrojándose frenéticamente contra el vacío. Sus actos consiguieron llenarlo, impidiendo que quedara una abertura hacia la nada. Los dioses que se sacrificaron de este modo fueron transformados, aunque muchos lograron sobrevivir a la muerte de su universo gracias a sus acciones.
+
+Entre ellos destacó Magasta, un Dios del Mar que reunió a casi todas las aguas del mundo para ayudarlo a llenar el agujero. Desde entonces, todos los ríos fluyen cuesta abajo hacia la Poza de Magasta, en lugar de continuar su lenta invasión de la tierra.
+
+Rara vez las luchas tuvieron un resultado tan favorable. La Muerte y la entropía se extendieron por las tierras, dejándolas estériles y putrefactas. Los Dioses Jóvenes que habían gobernado se convirtieron en fugitivos. En algunos lugares desapareció el aire; el agua se quebró o se volvió gelatinosa, y la tierra comenzó a perder su solidez. Los dioses morían. Las razas desaparecían. La vida apenas lograba mantener su último fulgor.
+
+Entre los Dioses del Terror de esta era destacaban Kajabor y Wakboth, que encabezaban las fuerzas destructoras. El Trío Impío prosiguió su devastación, hasta que los nombres de Ragnaglar, Thed y Mallia se convirtieron en sinónimos de terror. También hubo otros invasores, como Tien el Cazador de Cabezas y Krarsht el Hambriento. Seres que antaño habían pertenecido por naturaleza a Glorantha, pero que se habían entregado a las costumbres de Wakboth por egoísmo, como Vivamort, merodeaban por las tierras.
+
+Las regiones conquistadas se llenaban de limo debido a una gigantesca y malévola masa viscosa llamada Gorpgod. Nuevas razas de criaturas, nacidas del Caos o mutadas a partir de seres traidores, se arrastraban por el mundo. Incluso la fauna que en otro tiempo había resistido la invasión, como el Murciélago Carmesí, fue derrotada y esclavizada.
+
+Pero la resistencia aún perduraba. Allí donde se libraba una batalla, también podía aparecer ayuda, por escasa que fuera. Los Capitanes Estelares descendieron del cielo y salvaron a sus tribus. Los Fuegos Bajos fueron liberados y Oakfed se convirtió en una poderosa arma para abrasar toda impureza. Fue entonces cuando apareció el Niño Encontrado y enseñó a los hombres a cazar para procurarse el sustento.
+
+La destrucción del mundo y de sus habitantes dejó cada vez menos presas para los dioses y los monstruos, que comenzaron a devorarse entre sí con avidez. Los supervivientes, maltrechos y dispersos, apenas lograban subsistir en medio de las fuerzas enemigas que combatían entre ellas. La impresionante unidad que había asaltado la Aguja resultó ser fruto de una casualidad o de un error de percepción. A menudo, el Caos demostraba ser su peor enemigo.
+
+En cierto momento, los ejércitos de Kajabor y Wakboth comenzaron a devorarse mutuamente. Los filósofos discrepan sobre cuál de los dos fue destruido, pues nadie que estuviera vivo y conservara la cordura podía conocer tales acontecimientos. La creencia más extendida sostiene que Wakboth mató a Kajabor, dejando al corruptor del mundo frente al Toro Tempestuoso y al dios de la entropía frente a las fuerzas de los muertos.
+
+Esta teoría cuenta con sólidos argumentos a su favor. El Mundo Mundano, reconstruido más adelante, solía considerarse el origen de la inmoralidad, mientras que la combinación de entropía y existencia parece dar lugar al dios Tiempo, que posteriormente gobernaría el cosmos.
+
+## EL CAOS PRIMORDIAL (PRIMAL CHAOS)
+
+El Caos en sí mismo es impersonal, incluso menos que una fuerza sin mente: no es más que una fuerza primordial, incluso para quienes lo adoran. Los filósofos humanos lo conciben dividido en seis Planos o formas, ordenados según una complejidad creciente. El primero es el Vacío, inferior incluso a la nada; el último es Gbaji, el dios seductor que hace que el Caos resulte atractivo para quienes no pertenecen a él.
+
+El Caos Primordial es el poder incontaminado del cambio aleatorio. Entró por primera vez en el mundo a través de las grietas del universo provocadas por la Guerra de los Dioses. Es la fuente y madre de todas las criaturas del Caos que surgieron después.
+
+## EL TRÍO IMPÍO
+
+El Trío Impío estaba formado por Ragnaglar, Thed y Mallia. Juntos crearon el ritual que permitió al Caos penetrar en Glorantha y comenzar la destrucción del mundo.
+
+### Ragnaglar
+
+Ragnaglar era hermano de Orlanth, Humakt y el Toro Tempestuoso. Los celos lo llevaron al odio y a cometer actos deshonrosos. Su esposa era Thed y su amante, Mallia. Los tres formaron el Trío Impío y, como prueba de la locura de Ragnaglar, introdujeron el Caos en el mundo, desencadenando la catástrofe definitiva.
+
+En tiempos recientes, Ragnaglar sobrevive únicamente en los cuentos infantiles, pues fue asesinado por el Toro Tempestuoso. Thed y Mallia siguen existiendo, pero, desde la desaparición de su abominable señor, sus atrocidades no han alcanzado una magnitud suficiente para amenazar la existencia del universo.
+
+### MALLIA
+
+Mallia surgió de la Oscuridad, entre la devastación y la destrucción de la Guerra de los Dioses. Encontró sustento y vida entre los enemigos caídos, los restos de la destrucción y la sangre de todos los seres que perecieron en aquella era. Se convirtió en una corrupción de la propia Muerte, contaminada y degradada, alejada de la fulgurante rapidez con la que Humakt y Orlanth la empleaban, hasta transformarse en una penumbra persistente y purulenta.
+
+A medida que los seres caían ante ella, Mallia empezó a temer que sus fuentes de alimento acabaran agotándose por completo. Por ello, cambió su forma de alimentarse: pasó de provocar plagas fulminantes que despoblaban naciones enteras a propagar una muerte lenta mediante enfermedades, de modo que la miseria que causaba perdurara eternamente, como correspondía a una diosa.
+
+Durante la Oscuridad, se convirtió en amante de Ragnaglar y amiga de Thed. Los hijos de Ragnaglar, los broos, adoraban a Mallia y, a cambio, ella los ayudaba, proporcionándoles magias especiales y espíritus aliados para que extendieran aún más el dominio de la enfermedad.
+
+Movidas por el amor, el respeto o el miedo, otras criaturas del Caos también comenzaron a adorarla. Los humanos, los elfos, los trolls y los enanos acudieron igualmente a ella, aunque rara vez por amor: todos rogaban a Mallia que no infectara a sus pueblos. Gracias a su relación con ella, muchos lograron sobrevivir al azote de las enfermedades durante la Oscuridad.
+
+### THED
+
+Antes de la Oscuridad Menor, Thed era una diosa importante. Era la esposa de Ragnaglar, quien más tarde sería conocido como el Dios Loco, y sus hijos eran los broos, que por aquel entonces aún no estaban contaminados por el Caos. Junto con Ragnaglar y Mallia, conspiró para introducir el Caos en el mundo bajo la forma del Diablo. El Trío Impío había descubierto en sí mismo los celos y el orgullo, y soñaba con usurpar las funciones del mundo y convertirse en sus gobernantes indiscutibles.
+
+Thed fue la propia madre del Diablo, y la malevolencia de este la retorció y deformó durante el parto. Participó en las guerras del Caos, y sus broos se unieron a ella. Durante la guerra, el Toro Tempestuoso mató a Ragnaglar, Mallia abandonó la conspiración y Kyger Litor derrotó a Thed y la desolló. Finalmente, el Toro Tempestuoso mató al Diablo y lo arrojó al Infierno, donde Arachne Solara lo devoró. Thed se dispersó por todos los rincones oscuros del universo, incluida Prax.
+
+## WAKBOTH, EL DIABLO
+
+Wakboth representa el mal moral del mundo. Esta entidad irracional y aterradora se nutre de todo desprecio por la vida y, a su vez, promueve una destrucción brutal e incesante. Retorcido y repugnante, Wakboth es el corruptor del mundo. Su existencia durante el Tiempo Divino constituía una auténtica afrenta, pues el mundo antiguo ya estaba condenado y él no hizo sino agravar el sufrimiento de todos los implicados.
+
+## KAJABOR, EL DIOS DE LA ENTROPÍA
+
+Kajabor ejerce el poder de la entropía en el mundo. A menudo llamado Asesino de Dioses, destruye todo vestigio de materia o energía, aniquilando cualquier posibilidad de individualidad o unidad.
+
+Los seres asesinados por Kajabor jamás han regresado al mundo. Incluso sus nombres y los recuerdos que quedaban de ellos se han perdido después de que sus cuerpos y almas fueran eliminados del universo.
+
+Kajabor es el Gran Terror, y se cree que impulsa a los hombres y a los dioses a entregarse a corrupciones como la de Wakboth. Por esta razón, Kajabor es tan enemigo como el propio mal verdadero, aunque sea una fuerza completamente impersonal que, según algunos, resulta tan natural como las fuerzas de la creación.
+
+Durante el Tiempo Divino, Wakboth mató a Kajabor, que fue enviado al Infierno, donde se enfrentó a los últimos dioses, reunidos en su último bastión. Allí, Arachne Solara lo atrapó en sus redes, lo envolvió entre sus patas y forcejeó con él hasta que, finalmente, lo devoró vivo. La combinación resultante de entropía y existencia dio lugar al dios Tiempo, que gobierna el cosmos.
+
+## OTROS DIOSES DEL CAOS
+
+Aunque el Trío Impío, Wakboth y Kajabor son los Señores del Terror más conocidos, existen muchos otros dioses del Caos. Algunos eran seres naturales corrompidos por el Caos; otros se filtraron a través de la desgarrada trama del mundo.
+
+### Bagog
+
+Cuando el Diablo condujo a sus fuerzas al Mundo de la Superficie, muchas otras criaturas también escaparon hasta allí. Una de ellas fue Bagog, una hija de la Oscuridad con forma de escorpión y escaso entendimiento. Bagog correteó por el Mundo de la Superficie, disfrutando a sus anchas de la carnicería de la Guerra de los Dioses, combatiendo y devorando a todo aquel que se le oponía. Su cola venenosa era un arma temible y, durante un tiempo, se dio por satisfecha.
+
+Después surgieron en ella otros impulsos y comenzó a poner numerosos huevos. Pronto eclosionaron, dando lugar a versiones más pequeñas de sí misma. Aunque la mayoría tenía forma de escorpión, las criaturas habían sido alteradas por aquello que Bagog había devorado. Así aparecieron babuinos escorpión, elfos escorpión y muchas otras variedades. Algunas no pudieron sobrevivir, pero otras prosperaron. Estas últimas se alimentaban como Bagog, y sus descendientes también adquirieron conocimientos.
+
+En poco tiempo, las distintas especies de escorpiones desarrollaron una rudimentaria organización social, centrada en el poder de Bagog. Se devoraban entre sí, además de a sus enemigos, con la esperanza de adquirir pronto el conocimiento de todas las especies.
+
+### Vivamort
+
+Vivamort era un espíritu de la Oscuridad que habitaba en los laberínticos salones y pasadizos del Infierno, donde había sido destinado a custodiar eternamente el Terrible Secreto. Sin embargo, sentía curiosidad por conocer la naturaleza de aquel secreto y, cuando Eurmal se infiltró en el Infierno, Vivamort traicionó la confianza depositada en él para descubrirlo. Allí encontraron la Muerte.
+
+Vivamort volvió a ayudar a Eurmal cuando este y Humakt acudieron para llevar la Muerte al Mundo de la Superficie. Los ayudó a superar a Deathhound y a Bimbaros, el portero del Infierno. Vivamort sabía que todos aquellos que murieran acabarían llegando a su reino una vez que sus almas hubieran conocido la Muerte.
+
+El Abuelo Mortal fue el primero en morir y también el primero en llegar ante Vivamort. Fue asimismo el primero en comprender la traición de aquel ser, ávido de almas, y entre ambos nació un odio profundo. Más adelante, cuando el Sol llegó al Infierno, Vivamort fue abrasado y tuvo que huir, herido y desfigurado, hacia la superficie, ahora sumida en la oscuridad. Cuando el Sol descubrió el papel de Vivamort en la liberación de la Muerte, lanzó maldiciones contra él.
+
+Una vez en la superficie, Vivamort encontró refugio durante un tiempo junto a Mallia, la Madre de las Enfermedades, con quien intercambió secretos de la Oscuridad y de la Muerte. Después recorrió el mundo en busca de Poder. A medida que avanzaba, aprendía más acerca de la Muerte y comenzó a temer aquello que había desencadenado, pues comprendió que el Caos era una prolongación de la Muerte. Aquel conocimiento lo paralizó de terror.
+
+Poco después, el Diablo lo atacó y lo hirió. La herida no sanaba y su Poder se escapaba a través de ella hacia el Vacío. Vivamort ya no se enfrentaba únicamente a la Muerte, sino también a la aniquilación provocada por aquella herida del Caos. Como su mayor deseo era preservarse a sí mismo y mantener sus viles acciones, suplicó ayuda a sus enemigos del Caos y selló con ellos pactos malignos.
+
+El Diablo le concedió una existencia vacía. Vivamort quedó separado de la unidad mística del mundo y del flujo universal del Poder, apartado tanto de la vida como de la muerte. A partir de aquel pacto, tendría que extraer la vida de otros y abrazar el Caos. Ante la alternativa entre la aniquilación absoluta y convertirse en agente de la entropía activa, eligió esta última opción, impulsado por el orgullo y el miedo.
+
+Algunos escriben que llegó a aceptar esta nueva forma de existencia, tal fue la determinación con la que abrazó la causa del Caos y rugió a través de la Gran Oscuridad. Utilizó sus facultades demoníacas para arrancar Poder a los dioses acosados, y a algunos consiguió destruirlos por completo. Poco a poco, Vivamort reunió aliados y creó a otros seres semejantes a él. En una ocasión, Vivamort y sus aliados no muertos capturaron a Arroin y quebraron su espíritu, aunque no consiguieron matarlo.
+
+Las noticias sobre Vivamort y su transformación llegaron al Infierno a través de los espíritus a los que había atacado sin lograr aniquilarlos. Muchos de sus habitantes lo maldijeron entonces. La maldición del Sol surtió efecto; Ty Kora Tek, Reina de los Muertos, montó en cólera cuando Vivamort comenzó a robar las almas que le pertenecían y volvió a la Tierra contra él. El río Estigia conoció la traición de Vivamort y juró que jamás volvería a cruzar sus aguas. Hasta el día de hoy, una sola gota del Estigia destruye a cualquier vampiro que toque.
+
+Todas las aguas del mundo material secundaron el juramento del Estigia y, desde entonces, siguen siendo uno de los principales enemigos de Vivamort.
+
+### Thanatar
+
+El Diablo entró en el mundo, y con él llegaron las viscosas hordas del Caos. El favorito del Diablo era su hijo Tien, que comandaba las legiones más poderosas. Él mismo dirigió la destrucción del dios Genert. Tien prosiguió sus terribles conquistas hasta que, finalmente, sus fuerzas fueron derrotadas por un ejército del Orden muy inferior en número, que empleó una estrategia ideada por Lhankor Mhy, el dios del conocimiento.
+
+Tien buscó vengarse personalmente del dios. Tendió una intrincada trampa al señor sabio, insinuándole que conocía el paradero de la amada desaparecida de Lhankor Mhy, la Señora de la Luz del Conocimiento. Lhankor Mhy cayó en el engaño, se adentró en el negro foso de Tien y allí fue capturado y encarcelado. El vengativo hijo del Diablo preparó un ritual para extraer todo el conocimiento de su prisionero y transferirlo después a sí mismo. Pero el dios del conocimiento descubrió el modo de liberarse de sus ataduras y escapar de los traicioneros túneles de aquella criatura del Caos. Tien quedó obsesionado con destruir a Lhankor Mhy y abandonó cualquier otra actividad para perseguirlo y acosarlo. Temiendo volver a encontrarse con Tien, Lhankor Mhy buscó la protección de los Portadores de la Luz.
+
+Fue entonces cuando la Aguja explotó.
+
+Tras la caída de la Gran Oscuridad, Tien merodeó por los sagrados vestíbulos de la Montaña Cósmica. En una cámara dorada, en lo más profundo de la montaña, encontró a la resplandeciente diosa, la Señora de la Luz del Conocimiento, la verdadera luz de la existencia de Lhankor Mhy. Triunfante, la decapitó con un afilado garrote y se apoderó de su magia. Se llevó consigo aquel repugnante trofeo, extrayendo sus poderes y habilidades para acrecentar los propios. Con la Señora desapareció toda la luz del conocimiento que aún quedaba en el mundo; la Gran Oscuridad era ya completa.
+
+Mientras los Portadores de la Luz reunían al mundo sumido en las tinieblas en torno a su causa, los acontecimientos comenzaron a volverse en contra del Caos. Con la muerte del Diablo, Tien quedó desprotegido ante la ira del Toro Tempestuoso y sus hijos. Uno de ellos, Hrothmir, el Héroe Cornudo, persiguió a Tien hasta las mismas puertas del Infierno.
+
+Allí, la deidad de la Muerte y la Oscuridad logró escabullirse sin dificultad y se ocultó en los confines del Inframundo, donde apenas llegaba la luz de Yelm. Furioso, Hrothmir se quitó la vida para atravesar la barrera entre la vida y la muerte y entrar también en el Inframundo, ligado por poderosos juramentos a destruir aquella criatura del Caos. Tien volvió a huir, esta vez hacia las criptas más oscuras del Infierno, y bloqueó el paso de su perseguidor con los muertos y las tinieblas, deformando a ambos mediante las fuerzas caóticas de la Oscuridad Exterior. Pero todos los caminos que elegía Tien conducían de nuevo al centro del Inframundo, pues todos los senderos de los vivos terminan en el Infierno.
+
+Atrapado entre la insoportable luz del Dios Sol y el hacha vengadora de Hrothmir, Tien se mantuvo firme. La hoja del Héroe Cornudo cayó veloz, separando la cabeza, coronada de cuernos de carnero, del cuerpo envuelto en negro del dios. La cabeza rodó hasta quedar bajo la plena luz de la gloria de Yelm, y el hijo del Dios del Aire oyó el rugido que acompañó cómo la carne se deshacía sobre el hueso, abrasando gran parte del poder de las Tinieblas de Tien y dejando sus ojos vivos mirando ciegamente. En ese mismo instante, un grito de liberación atrajo la atención de Hrothmir: la espantosa cabeza de una mujer antaño hermosa se desmoronó hasta convertirse en polvo y adoptó la forma espectral de la Señora de la Luz del Conocimiento, que después se desvaneció para siempre en las profundidades del Infierno. Distraído por aquella visión, Hrothmir no vio cómo el cuerpo del dios decapitado se abalanzaba sobre él, hasta que el hijo del Dios del Aire quedó envuelto en tinieblas y terror. Estos lo despedazaron y se alimentaron del espíritu del héroe. Finalmente, le arrancaron la cabeza y la colocaron sobre los hombros descabezados de su propio cuerpo.
+
+El cuerpo de Tien había perdido gran parte de su poder en la batalla. La separación y abrasamiento de su cabeza le habían arrebatado casi todo dominio sobre las Tinieblas; solo el hecho de poseer una parte de la Muerte le había impedido morir. Ya no conservaba los poderes robados a la Señora de la Luz del Conocimiento ni la capacidad de devorar el conocimiento ajeno: los había perdido cuando Hrothmir lo decapitó. Al apoderarse de la cabeza del héroe, recuperó parte de su inteligencia y obtuvo una porción de los conjuros y habilidades que Hrothmir poseía. Sin embargo, la mutilación del hijo del Diablo había debilitado su control sobre la realidad, haciendo imperfecto el hechizo que mantenía la cabeza en su sitio. Pronto esta comenzó a descomponerse, y con ella se perdió el conocimiento que había obtenido. Lo que quedaba de Tien necesitaba más cabezas. Durante la Oscuridad era frecuente contemplar una visión terrible: el dios Than —nombre derivado de una corrupción de Tien— vagaba por las catacumbas bajo montañas sin nombre o merodeaba por los pantanos de Snakepipe Hollow, con la cabeza de algún otro ser sobre los hombros, obteniendo temporalmente de ella magia y conocimientos.
+
+El cráneo cornudo de Tien tuvo un destino distinto. Lhankor Mhy lo descubrió mientras buscaba el camino hacia el Infierno, cuando descansaba bajo la plena luz de Yelm, quien ignoraba la verdadera naturaleza del dios del Caos. Lhankor Mhy intentó destruirlo, pero no pudo. Tampoco el cráneo de Tien consiguió afectar al dios del conocimiento con sus poderes para robar la mente, pues Lhankor Mhy había aprendido a protegerse de ellos. Así, el destino impidió que ninguna de las partes obtuviera una venganza definitiva. Para evitar que el cráneo de Tien siguiera causando daño, el dios del conocimiento se lo llevó consigo al salir del Infierno y lo arrojó al Océano. Este acto disgustó a varias deidades acuáticas, que no tardaron en hacer que el cráneo fuera arrastrado hasta la costa de una isla. Desde entonces, estas deidades no han sentido afecto alguno por el señor sabio ni por sus seguidores. El cráneo pronto cayó en el olvido.
+
+Ni siquiera la abrasadora luz de Yelm consiguió destruir este fragmento de Tien. Despojado de carne y privado de su dominio sobre la Muerte y las Tinieblas, conservó su memoria, su capacidad para consumir conocimientos y su odio hacia Lhankor Mhy. Sin embargo, durante siglos sus únicas víctimas fueron pequeños animales y los primitivos habitantes de la isla, que lo veneraron como un dios de la Muerte, pese a que carecía de dominio sobre ella.
+
+Aunque Than no era una deidad principal, muchos de sus seguidores caóticos sobrevivieron a la transición al Tiempo y recordaron el liderazgo del hijo del Diablo. Junto con humanos de almas viles, formaron las primeras bandas de cazadores de cabezas depredadores que sembraron el terror durante la Edad del Amanecer.
+
+Muchos fieles de Than buscaron por todo el mundo mortal el cráneo decapitado. Pero la cabeza, depositada en un nicho arenoso de un pequeño templo insular, había sido descubierta por un sacerdote errante y egoísta de Lhankor Mhy, intrigado por ella, que dedicó varios años a investigar su origen. Cuando descubrió la verdad, aquel sabio ávido de poder ocultó el cráneo en las catacumbas de una ciudad desconocida del Imperio de Kralorela y aprendió de él los espantosos conjuros que devoraban el conocimiento. De este modo fundó el culto del Cráneo Cornudo, al que dio el nombre de Atyar, Devorador del Conocimiento.
+
+Temido por todo el Imperio, el culto no tardó en acrecentar su poder. Atacaba otros templos y arrancaba conocimientos a sus cautivos, que más tarde aparecían en callejones y callejas, destrozados y privados de razón.
+
+La persecución constante de otros cultos y las guerras locales acabaron obligando a los atyaris a huir del Imperio, dispersándose por todo el continente. Antes de partir, los sumos sacerdotes atyaris se reunieron y sellaron el cráneo de Atyar en un lugar especial, protegido por poderosas magias. La huida del Imperio de Kralorela terminó con el encuentro y la unificación, en Genertela, de los cultos de Than y Atyar, que se fusionaron en el culto de Thanatar, el Dios Decapitado.
+
+### Murciélago Carmesí (Crimson Bat)
+
+El Murciélago Carmesí era hija de Artia, horriblemente mutada por la oleada de Caos que infectó el mundo tras la Guerra de los Dioses. Creció hasta alcanzar un tamaño colosal y resplandecía con fuerzas caóticas. Aquel resplandor era el Punto Luminoso (Glowspot), una fuente de poder caótico. Para alimentar esas energías, el Murciélago consumía cantidades ingentes de comida y, para sobrevivir, devoraba el Poder de los seres inteligentes.
+
+Durante la Primera Edad, el Murciélago Carmesí vagó por el mundo sin que nada lo contuviera. Descendía sin previo aviso sobre pueblos y ciudades y devoraba a sus habitantes. El antiguo héroe Arkat se enfrentó a la bestia en combate, resistió sus ataques y consiguió expulsarla del Mundo Mundano. No volvió a aparecer durante la Segunda Edad.
+
+En la Tercera Edad nació la Diosa Roja en Peloria. Trajo a su pueblo ideas y creencias nuevas y radicales sobre los poderes del mundo, y sus gentes se unieron para adorarla. Inspirados por ella, conquistaron y convirtieron las tierras vecinas a la fe y las enseñanzas de la diosa. Durante un tiempo, la diosa abandonó el mundo para forjar su lugar entre los panteones de los Dioses Antiguos. Mientras emprendía aquella Búsqueda Divina, poderosos señores enemigos aprovecharon la ocasión para atacar. Su odio hacia la Diosa Roja era tan intenso que consiguieron llegar hasta su capital y sitiarla antes de que ella regresara.
+
+La diosa volvió montada sobre la monstruosa figura del Murciélago Carmesí. Las fuerzas enemigas fueron presa de un terror indescriptible y murieron por regimientos mientras la bestia hacía la guerra. Muchos de los supervivientes enloquecieron. Los historiadores lunares llaman a aquella batalla la Primera Batalla del Caos y señalan ese día, el Día de la Escarcha (Freezeday), como el día de alimentación del Murciélago.
+
+### Krarsht
+
+Las interminables disputas y los celos entre los dioses debilitaron y finalmente desgarraron el tejido del mundo durante las primeras Guerras de los Dioses. Por aquellas grietas rezumaron horrores ilógicos que intensificaron el miedo y el terror del conflicto. Una de aquellas criaturas, cuyo verdadero nombre sigue siendo desconocido, recibió el nombre de Krarsht. También conocida como la Boca Acechante (Waiting Mouth), la Hambrienta (Hungry One) y la Madre Devoradora (Devouring Mother), Krarsht sobrevivía alimentándose de aquello que consideraba los desechos de Glorantha.
+
+Se cree que Larnste, patrón del Cambio, vio en cierta ocasión al ser retorcido que era Krarsht y trató de expulsar del mundo aquella abominación del Caos. Sin embargo, cuando intentó aplastar aquella inmundicia con el pie, Krarsht se abalanzó sobre él y mordió al dios, perforando su piel divina e infectando la herida al instante. Allí donde cayó la sangre del dios surgió un bosque repugnante y maligno, un lugar perfecto para que anidaran toda clase de criaturas caóticas. Más tarde, aquel bosque recibió el nombre de Bosque de la Sangre Impura (Foulblood Wood) y desde entonces ha sido un bastión del Caos.
+
+Durante la Gran Oscuridad, Krarsht reinó sin oposición durante un tiempo, pero finalmente tuvo que enfrentarse al Toro Tempestuoso y sus seguidores. Aquel dios hirió gravemente a la Devoradora en numerosas batallas encarnizadas. Cada vez que el Toro Tempestuoso conseguía acorralarla, lograba arrancarle otra parte de su ser, que en su mayoría moría; mientras tanto, Krarsht mordía y abría profundas heridas en el poderoso toro celeste. Al probar su sangre, la Boca Acechante aprendió algunos de los secretos del Toro Tempestuoso, los modificó y los hizo suyos. Finalmente, el valeroso toro expulsó a Krarsht del Mundo de la Superficie, obligándola a abrir agujeros en el mundo para ocultarse. Al principio, el Toro Tempestuoso la persiguió por aquellas cavernas, pero la Madre Devoradora era más astuta que los demás dioses del Caos: algunas de las partes amputadas de su cuerpo crecieron hasta convertirse en versiones menores de ella misma, las crías de Krarsht, o Krarshtkids. Mientras el Toro Tempestuoso la perseguía bajo tierra, estas comenzaron a excavar túneles alternativos para distraerlo. Pronto resultó imposible seguir a Krarsht sin correr el riesgo de perderse, y así consiguió escapar de la aniquilación.
+
+### Nysalor
+
+Esta deidad fue conocida en un principio como Rashorana. Quizá fuera la última de las deidades en nacer, o quizá la primera creada entre los dioses del Caos. Se sabe que el dios de la Entropía la mató en algún momento durante la Gran Oscuridad.
+
+Hacia el final de la Primera Edad, las razas mortales consiguieron crear un nuevo dios: Nysalor, «el Brillante» o «el Perfecto». Los pueblos de Peloria lo veneraban —y aún lo veneran— bajo esos títulos.
+
+En el oeste de Genertela, donde los sacerdotes del culto de Dorastor llegaron a actuar más allá del control de su dios, el culto pasó a conocerse como Gbaji, una palabra vulgar que significa «el Embaucador» o «el Mentiroso Maldito». En aquella región, el nombre parece bien merecido.
+
+Los profetas del culto de Nysalor habían difundido originalmente sus enseñanzas por tierras lejanas, pero en el oeste encontraron una fuerte resistencia por parte de los malkionitas, que poseían sus propios secretos cósmicos. Los profetas descubrieron que podían introducir en secreto plagas y enfermedades en una región, presentarse después como sanadores y, finalmente, curar la infección. Su popularidad creció rápidamente en Ralios y Seshnela, pero aquel nuevo poder tentó a los profetas del culto, que sucumbieron a la vanidad que acompañaba a semejante fuerza. Cada vez más de ellos optaron por el sencillo «lado oscuro» del culto, según el cual los Iluminados solo debían preocuparse por sí mismos. Algunas regiones respaldaron ampliamente a aquellos oscuros profetas, y sus habitantes adoptaron los secretos de esta nueva fe. Así surgieron ciudades aterradoras de muertos vivientes, cuya población viva no era más que una fachada que ocultaba a sus señores vampíricos. Se descubrieron y restablecieron antiguos horrores, como el complejo de Thanatar en Ralios. Por todas partes, la gente adoptó alegremente rasgos caóticos y se convirtió en krjalki.
+
+Arkat Humaktsson, «el Libertador», encabezó la heroica purificación de aquellas tierras. Dedicó tres generaciones a la tarea y, al final, dejó tras de sí un rastro de cenizas que atravesaba el continente antes de alcanzar la victoria definitiva. Aunque su poder temporal quedó destruido y su dios yacía muerto, el culto no pudo erradicarse por completo, pues no necesitaba templos ni sacerdocio. Los supervivientes de las Guerras de Gbaji se ocultaron, y muchos olvidaron deliberadamente sus acertijos para protegerse.
+
+En la Tercera Edad, la Diosa Roja despertó el culto. Emprendió una gran senda y, durante su viaje, buscó atravesar una sombra vacía en el Plano Espiritual. Se enfrentó a ella y la derrotó, y de ese modo recibió la Iluminación del dios Nysalor. Gracias a sus conocimientos, descendió a lugares más profundos y liberó al Murciélago Carmesí de su cautiverio eterno. Al regresar a casa con la bestia, consolidó su poderoso imperio. Desde entonces, las creencias del culto de Nysalor se han convertido en parte esencial del culto de la Diosa Roja. A través de Nysalor, los lunares acceden a habilidades y poderes caóticos que están fuera del alcance de las deidades normales.
+
+# EL FINAL DE LA GUERRA DE LOS DIOSES
+
+La Gran Oscuridad terminó con la derrota del Caos y la supervivencia del cosmos. Por lo general, este desenlace se asocia con un gran acontecimiento mítico, como la batalla **Luché y Vencimos (I Fought We Won)**, la **Búsqueda de los Portadores de la Luz (Lightbringers’ Quest)** y el **Gran Compromiso (Great Compromise)**.
+
+## LA BATALLA FINAL DE LA MORTALIDAD 
+
+Los desgarrados restos del mundo parecían incapaces de emprender una acción conjunta contra las fuerzas del Caos. Los separaban abismos imposibles de franquear. Por ejemplo, aunque existía una maravillosa fortaleza viviente de elfos verdes que defendían obstinadamente sus bosques muertos, con la ayuda de Arroin y Yelmalio, no podían cerrar el abismo de Caos que los separaba del Castillo de Plomo de los trolls, otra fortaleza inexpugnable.
+
+Todos compartían el deseo de sobrevivir, y aquella voluntad inquebrantable llevó a individuos a través del tiempo y el espacio, del Orden y el Caos, para enfrentarse a la disolución definitiva del mundo. No importaba de dónde procedieran ni dónde tuviera lugar el encuentro. Combatieron en su última y desesperada batalla contra fuerzas abrumadoramente superiores, impulsados por el instinto de supervivencia y decididos a darlo todo. Así unieron sus fuerzas y, sin saberlo, se ayudaron mutuamente a vencer sus propios temores. Estaban solos, pero descubrieron que había otros como ellos y encontraron fuerzas en su compañía.
+
+En el Paso del Dragón, el héroe orlanthi Heort viajó hasta el Confín del Mundo para enfrentarse al Caos, después de conocer el secreto del Segundo Hijo. En Peloria, Kargzant ahuyentó con su sola luz al Ejército de Monstruos y reunió a los Vagabundos de la Luz Estelar. El Emperador Dragón de Kralorela derrotó al Emperador Demonio y liberó las tierras del Este. En Brithos, Zzabur creó un poderoso hechizo mágico que aprovechó las fuerzas de la entropía y desencadenó una nueva reacción de Poderes en el mundo, dando origen a una nueva creación. El Gran Rey Elfo condujo a un tenaz bosque viviente de elfos verdes para defender los cuerpos dormidos y las semillas de los árboles y los bosques. Kyger Litor abandonó su Castillo de Plomo para devorar al Caos. Los mostali regresaron al Taller Perdido y comenzaron a reparar la Máquina del Mundo, quebrada y maltrecha.
+
+Este acontecimiento recibe el nombre de **Luché y Vencimos (I Fought We Won)** y se dice que fue el responsable de la supervivencia del mundo. Entre quienes reivindican su participación destacan Heort y sus compañeros héroes del Paso del Dragón y Kethaela, Kyger Litor y las deidades de la Oscuridad, así como Zzabur, el Archihechicero.
+
+Algunos supervivientes de la Gran Oscuridad se ayudaron conscientemente unos a otros. Así ocurrió en el Paso del Dragón, donde orlanthis, trolls, elfos, enanos, dragonewts y otros seres inteligentes se unieron para derrotar al Caos en la Batalla de la Unidad. Una vez entablado el combate, las fuerzas del Caos fueron destruidas, neutralizadas o expulsadas.
+
+Durante el periodo posterior a la muerte de Kajabor, las fuerzas del Caos se dispersaron y debilitaron. Algunas deidades todavía podían actuar; entre ellas destacaba, por encima de todas, el furioso Toro Tempestuoso.
+
+El Toro Tempestuoso reunió a sus fuerzas para combatir al Diablo en Prax. Era la tormenta del desierto que arrasaba todo a su paso y cuyo contacto arrancaba la carne de los huesos. Lo respaldaban la justa indignación y la compasión, dos cualidades de las que el Caos apenas disponía. Aunque sus parientes y amigos caían muertos a su alrededor, siguió luchando, ayudado por el mundo entero. Cuando lo derribaron, la tierra le otorgó su poder; cuando lo mantuvieron en el aire, extrajo fuerza de su aliento. El fuego lo ayudó, y también el frío. Y cuando se quedó sin aliados, el cosmos respondió a su grito. Un enorme bloque de Ley pura, que había quedado a la deriva cuando explotó la Aguja, se precipitó sobre la tierra y golpeó al Diablo, aplastándolo y dispersando sus restos y su poder. Después, otras fuerzas y seres siguieron debilitándolo hasta destruir para siempre su unidad en el mundo.
+
+Privadas de liderazgo, las fuerzas del Caos retrocedieron aún más. Dioses, pueblos y espíritus atacaron y comenzaron la ardua tarea de restaurar su mundo. Daka Fal acudió y enseñó a la gente a distinguir a los vivos de los muertos. Surgieron héroes entre los pueblos, que les enseñaron a sobrevivir y a mostrar compasión. Poco a poco, el mundo volvió a recomponerse. Los supervivientes lo reconstruyeron, fortalecidos por la esperanza que acababan de descubrir.
+
+## LUCHÉ Y VENCIMOS
+
+Los Reyes Ocultos, los últimos herederos de Vingkot, recurrieron a la transformación para sobrevivir, pero su hambre terrible amenazaba a los pocos supervivientes que aún quedaban. Uno de los hombres que ayudaban al Rey Oculto se llamaba Heort el Veloz. Cuando el mundo entero había desaparecido y cada hombre estaba solo, Heort salió a recorrerlo. Allí, en el confín del mundo, se encontró con el Segundo Hijo, quien le habló de su gran y terrible batalla. Le mostró sus heridas y el secreto del Corazón Estelar, y le reveló los secretos de la batalla de Luché y Vencimos.
+
+Heort recordó aquella lucha y prosiguió su camino, dejando atrás al Segundo Hijo hasta alcanzar el confín del mundo. Allí se enfrentó al mal de su mundo y venció.
+
+Cuando Heort regresó junto a los suyos, enseñó todo aquello a sus compañeros, que se habían ocultado para escapar de la última embestida del hambre de los Reyes Ocultos. Heort venció a los monstruos y permitió que la gente volviera a establecerse en fortalezas, donde pudiera vivir y salir a combatir contra sus enemigos naturales cuando así lo deseara. En su honor, se dieron el nombre de heortlings y lo proclamaron rey de los heortlings.
+
+Heort no estaba solo: cada pueblo superviviente contaba con un héroe que se había enfrentado a las mareas del Caos. El Gran Rey Elfo condujo un bosque ambulante de elfos verdes que defendió incansablemente sus bosques muertos. El Rey Inhumano se enfrentó al Caos que avanzaba en el Nido de los Dragones y alcanzó el Vacío Absoluto, pero regresó para ayudar a los demás seres inteligentes. Kyger Litor resistió el asedio de su Castillo de Plomo frente a los victoriosos ejércitos de Krarsht, y después sus trolls salieron en tromba para devorarlos. Los enanos de Greatway, Gemborg y Dwarf Mine reunieron sus fuerzas contra el Caos y comenzaron a planear las reparaciones de la Máquina del Mundo.
+
+Cuando el ejército definitivo del Caos llegó al Paso del Dragón, las razas mortales que aún sobrevivían le plantaron cara. El Único Anciano reunió a los supervivientes: heortlings, dragonewts, aldryami, trolls e incluso los Danzantes de la Rueda Dorada. Todos juntos viajaron hacia el norte para enfrentarse a los Señores del Terror. Fue una lucha desesperada contra fuerzas abrumadoramente superiores, pero unidos consiguieron la victoria. Aquella fue la Batalla de la Unidad. Aunque después de ella se libraron muchas otras batallas, nunca más volvieron a estar solos.
+
+## LA EDAD DE PLATA (THE SILVER AGE)
+
+La época comprendida entre la Batalla de la Unidad y el Amanecer fue una era de grandes héroes que guiaron a los restos de la vida. La luz y el orden crecientes se hicieron visibles para todos. Sus nombres siguen llenando nuestros relatos. Arkat y Belintar los devolvieron a nuestra memoria. Al recordar a los héroes de la Edad de Plata, recordamos también la época inmediatamente anterior al Amanecer.
+
+- **Ezkankekko, el Único Anciano (the Only Old One)**, fue, por supuesto, el más grande de los héroes. Continuó gobernando las Tierras Sombrías durante la Edad de Plata y compartió generosamente su sabiduría y sus conocimientos con todo su pueblo. Pero hubo muchos otros héroes.
+
+- **El rey Heort el Veloz** seguía vivo en aquella época y era el mayor héroe de las tribus del Paso del Dragón. En tiempos posteriores, estas cambiarían su nombre por el de heortlings en señal de respeto hacia él. Tras la apoteosis de Heort, que tuvo lugar en un relámpago, las tribus eligieron a su hijo Gollanth como rey.
+
+- **La reina Merngala la Grande** era hija de la reina Norinel y del Único Anciano. Fue la reina de Nochet durante la Edad de Plata. Merngala reinó durante doscientos años y todo el mundo reconoció su soberanía. Entre sus amantes hubo semidioses, reyes y héroes, todos ellos juramentados a defenderla. Sus nietas dieron la bienvenida al regreso de las diosas de la Tierra desde el Inframundo y llevaron la civilización a los pueblos vecinos.
+
+- **Amphibios, el Gran Vagabundo**, era un semidiós que condujo a los newtlings de regreso a Kethaela desde el oeste, devolviéndolos a las tierras que habían conocido antes del diluvio del Dragón Azul. Se asentaron en el Brazo Derecho, no lejos de las ruinas sumergidas de su primer asentamiento.
+
+- **Isidilian el Sabio** prosiguió sus trabajos de invención en el Paso del Dragón, ayudando tanto a los humanos como a los enanos a prosperar.
+
+- **Martalar la Forja Ardiente** protegió a los enanos de Gemborg, así como a los degenerados caladralandeses.
+
+- **Tessele la Verdadera (the True)** era una semidiosa, hija de Aurelion —hija de Lodril y de la Madre Tierra— y portadora del Hacha Ardiente. Cuando su hermano gemelo Vortem fue capturado y sacrificado por los seguidores de Thed, Tessele emprendió una búsqueda imposible de venganza. Finalmente, logró reconstruir y resucitar el alma perdida de su hermano gemelo. Selló su amistad con los mostali de Gemborg mediante juramentos de diamante y se convirtió en gobernante de los caladralandeses durante la Edad de Plata.
+
+- **Aram, el Alma de Udram**, fue un gran héroe entre los pueblos que más tarde se convertirían en los jinetes humanos de jabalíes del Paso del Dragón. Adoraba a la diosa cerda y, durante la Gran Oscuridad, salvó a su pueblo capturando y encadenando a un feroz demonio negro. En reconocimiento a su grandeza, su tribu adoptó su nombre y pasó a llamarse los aramitas.
+
+- **Sestarto el Artista** fue también un héroe de aquellos pueblos. Creó muchas obras de gran belleza. Su diseño más extraordinario fue la Aguja, que algunos relacionan, de manera desconcertante, con el Pedestal de Marfil, muy posterior.
+
+- **Panaxles el Arquitecto** construyó numerosas estructuras magníficas en su tierra natal, Esrolia, y en otros lugares de Kethaela. Entre ellas se encontraban el Anillo de Piedra y el Faro. A menudo rivalizaba con Sestarto, de los heortlings, y siempre vencía, hasta que Sestarto construyó la Aguja. Encolerizado, Panaxles mató al artista y después se quitó la vida.
+
+- **Kalops, el Rey Sacrificial**, fue otro héroe de Esrolia. Entregó su propia vida por su tierra.
+
+- **Vogarth, el Hombre Fuerte**, también recorrió Esrolia, ayudando desinteresadamente a las matriarcas. Destruyó bestias, erigió monumentos y desconcertó a los reyes extranjeros con su honestidad.
+
+- **Edkarl el Excavador** fue el mayor héroe de los harandings. Los trolls le enseñaron a encontrar alimento excavando entre los restos de los muertos. Se ganó la enemistad de los esrolianos cuando excavó en su necrópolis.
+
+- **Varzor Kitor** recibió del Único Anciano los secretos más profundos de la Oscuridad. A su vez, enseñó a otros humanos a rezar, hacer sacrificios y descubrir los secretos de la Oscuridad. Engendró muchos hijos; después se convirtió en mujer y dio a luz a numerosas hijas.
+
+Hubo muchos otros héroes durante la Edad de Plata. Estos son únicamente los más grandes.
+
+## EL CONSEJO DE LA UNIDAD (THE UNITY COUNCIL)
+
+A medida que la luz se extendía lentamente por el mundo y los cielos comenzaban a iluminarse poco a poco, el Único Anciano comprendió que la Edad de Plata estaba llegando a su fin. Las Tierras Sombrías habían dado cobijo al mundo durante la Oscuridad, pero, con la llegada del Día, surgirían nuevos pueblos destinados a gobernarlo.
+
+Doscientos años antes del Amanecer, el Único Anciano convocó de nuevo en el Paso del Dragón a los supervivientes de la Batalla de la Unidad. Estos acordaron colaborar en paz y fundaron el Consejo de la Unidad.
+
+Los seis primeros miembros del Consejo fueron:
+
+- Ezkankekko, el Único Anciano.
+- Corazón de la Debilidad, el dragonewt.
+- Fwalfa Corazón de Roble, el elfo.
+- Martaler, la Forja Ardiente, el enano.
+- Rueda Parlante, el último de los Danzantes de la Rueda Dorada.
+- Aram-ya-Udram, el humano.
+
+[los guiones de esta lista son runas, pag 130]
+
+En los años siguientes, el Consejo de la Unidad consolidó su posición y sus pueblos aumentaron en número. Los ayudaron a dejar atrás el salvajismo de la Gran Oscuridad. Repoblaron las Tierras Salvajes Primigenias, establecieron contacto con numerosos bosques élficos, restablecieron los vínculos entre las colonias enanas que habían quedado aisladas, encontraron clanes humanos perdidos y reanudaron la comunicación con tribus de trolls de regiones lejanas. Cuando llegó el Amanecer, los pueblos desde Kethaela hasta Dagori Inkarth estaban unidos. La mayoría seguía jurando lealtad al Único Anciano y a sus Tierras Sombrías.
+
+## LA BÚSQUEDA DE LOS PORTADORES DE LA LUZ (THE LIGHTBRINGERS’ QUEST)
+
+Orlanth siempre había sido un líder entre los dioses de la Tormenta. Como los demás, era indómito e indisciplinado, poderoso y violento. Sin embargo, durante la Edad de los Dioses, cada deidad siguió su propio camino de transformación, y Orlanth fue uno de los que cambiaron sin perder su identidad.
+
+Cuando Orlanth comprendió que el mundo estaba condenado, decidió asumir la responsabilidad por su destrucción y forjar una nueva manera de reparar el daño causado. Abandonó sus antiguos vínculos y buscó otros nuevos, aceptando voluntariamente su propia condenación por el bien del mundo.
+
+Orlanth había sido un rey y caudillo entre los dioses de la Tormenta, y los Portadores de la Luz eran sus consejeros. Cuando estos aceptaron acompañarlo en su búsqueda del Infierno, cada uno fue llevado hasta los límites de su conocimiento y resistencia, y más allá, hacia desafíos desconocidos. Atravesaron llanuras inhabitables, vadearon ríos de ácido y odio, se encontraron con sus peores enemigos y sus pesadillas más terribles, y se enfrentaron a versiones condenadas de sí mismos que intentaron cerrarles el paso. Trabajaron, lucharon y sufrieron enormemente para cumplir su cometido, y todos perdieron para siempre alguna parte de sí mismos. Aun así, triunfaron: entraron voluntariamente en las tierras de los muertos y encontraron el camino hasta el Rey de los Muertos.
+
+En el Infierno, Yelm el Emperador y Orlanth el Rey llegaron a un acuerdo. Ambos pronunciaron grandes juramentos de verdad y honor para comprometerse con la tarea. La diosa Arachne Solara trazó entre ellos complejos planes y estrategias, a los que también juraron fidelidad, junto con los demás dioses muertos que anhelaban sobrevivir. Entonces llegó la prueba más terrible del honor de Orlanth: el Fuego de Ehlim. Otras deidades, por su parte, encontraron la clave de la vida.
+
+Se mantuvieron firmes cuando el Caos alcanzó la tierra de los muertos, dispuestos a enfrentarse por última vez a los poderes vacíos de la vida.
+
+[Imagen de los buscadores de la luz pag 131]
+
+## ARACHNE SOLARA
+
+Arachne Solara es el sobrenombre de una deidad cuyo verdadero nombre se desconoce y que quizá sea la diosa de la Naturaleza de Glorantha. Sus orígenes son misteriosos y han dado pie a numerosas especulaciones, pero existen indicios sólidos de que es el espectro de Glorantha, la Madre del Universo.
+
+Arachne Solara aparece por primera vez en el relato del Gran Compromiso, cuando Orlanth, Yelm y las demás deidades del Inframundo juran pactos y compromisos para asegurar su supervivencia. Se dice que el plan que acordaron fue concebido por Arachne Solara y que se basaba en el apoyo mutuo de todos los seres que aún quedaban en el mundo.
+
+La diosa construyó una gran red mágica, hecha de materiales y sustancias que ya no existen en el mundo, y después se la entregó a todos los dioses para que la sostuvieran, preparados para actuar. Cuando el Caos penetró en su reino, los dioses arrojaron la red sobre Kajabor y lo inmovilizaron. Entonces la diosa se abalanzó sobre él, impulsada por la venganza, la desesperación y un esplendor místico. Lo envolvió con sus patas y forcejeó con todas sus fuerzas hasta que, finalmente, lo devoró vivo.
+
+Después, la diosa recogió cuidadosamente su red y la utilizó para ocultar el nacimiento de su criatura. Esta criatura es la Promesa de los Dioses, por la que toda existencia juró respetar los acuerdos alcanzados. Así nació el Gran Compromiso, el juramento sagrado que recreó el mundo.
+
+Yelm, Orlanth y las demás deidades se prepararon para abandonar su morada de muerte. Todavía les aguardaba una lucha, pues permanecían retenidos contra su voluntad en el Inframundo, y ni siquiera la victoria de Arachne Solara había sometido a los Guardianes del Infierno. Pero nada podía resistirse a las fuerzas liberadas de la Luz y la Vida. Estas avanzaron impetuosamente hacia la victoria y más allá de ella.
+
+Los dioses renacidos alcanzaron el confín del mundo en el lugar que hoy se conoce como la Puerta de Theya. Allí los aguardaba una estrella, e incluso la Oscuridad se alegró de verlos. Llegó el rubor del Amanecer, la diosa rosada. Arachne Solara se alzó sobre la Puerta del Tiempo y extendió su red por todo el universo, atrapando a cada ser superviviente y entretejiéndolo en el nuevo mundo. Entonces nació su criatura, oculta por la red y protegida por sus hilos. La criatura recibió el nombre de Tiempo.
+
+Los dioses recorrieron el mundo desolado, llevando calor, luz y flores a los supervivientes, que los contemplaban sobrecogidos.
+
+El nuevo mundo había sido creado. El Tiempo comenzó a reinar. La Historia dio comienzo.
+
+[Imagen de la ultima encarnación de Arka, pag 132]
