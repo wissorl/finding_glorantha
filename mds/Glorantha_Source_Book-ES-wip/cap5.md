@@ -1,0 +1,39 @@
+# TIME
+
+*La Historia de Glorantha es la suma de los acontecimientos que han sucedido desde el comienzo del Tiempo. Los acontecimientos míticos anteriores al Tiempo no seguían una secuencia, sino que eran acciones simultáneas que tenían lugar sin el orden que impone el tiempo lineal.
+
+El mundo de Glorantha tiene 1627 años de antigüedad. Hace todos esos años, tras una gran oscuridad sin tiempo, el Dios Sol se alzó por el este por primera vez, dando comienzo a muchos días e instaurando el nuevo poder del Tiempo. Desde entonces, las fechas del Tiempo suelen escribirse con las siglas ST, *Solara Tempora*. Así pues, el año 575 ST sería el año 575 después del primer amanecer.
+
+Los eruditos dividen los acontecimientos ocurridos durante el Tiempo en tres Eras: la Primera Era, que abarca desde el año 0 ST hasta el 500 ST; la Segunda Era, desde el 501 ST hasta el 1120 ST; y la Tercera Era, que se extiende desde el 1121 ST hasta el presente.*
+
+El Tiempo es el más poderoso de los dioses de la nueva era. Reconocemos tres formas naturales del Tiempo —lineal, cíclica e ilusoria—, pero el Tiempo no existía durante el Tiempo Divino ni durante la Gran Oscuridad. Las relaciones lineales que imponemos a los mitos y relatos de aquellas eras nacen de nuestra propia manera temporal de pensar, pues los mortales formamos parte natural del flujo del Tiempo en la nueva era. Los acontecimientos míticos no tuvieron por qué suceder en el orden en que los percibimos, y puede resultar difícil conciliar las versiones contradictorias de ciertos sucesos del Tiempo del Sueño. Las dificultades que entraña comprender aquella era quedan reflejadas en las palabras que utilizamos para nombrarla: Tiempo del Sueño, Era de los Dioses, Eón Dorado, No-Tiempo y otras semejantes. Cada palabra o expresión contiene alguna medida de Tiempo. Resulta interesante, y quizá significativo, que los magos de la época de las Guerras de los Héroes —cuando el contacto entre los hombres y los dioses alcanzó su apogeo— se refirieran al Tiempo Divino como «el lugar mágico» o «el Mundo de los Dioses», incluso cuando hablaban de acontecimientos prehistóricos.
+
+# El Tiempo y el Compromiso Cósmico
+
+El Tiempo nació en el Infierno, cuando las sombras del Caos reinaban y dominaban el corazón del universo. Todo el universo estaba sumido en la confusión, los elementos se entremezclaban caóticamente y los demonios campaban a sus anchas, matando y secuestrando por igual a dioses y mortales, a quienes arrastraban al Vacío informe.
+
+Cuando los Portadores de la Luz entraron en el Inframundo y completaron sus grandes hazañas, forjaron un pacto cósmico que unió a todas las entidades —vivas y muertas, espirituales y físicas, puras e impías, inteligentes e inertes— en el Gran Compromiso. Ningún ser responsable de la creación del mundo quedó exento de esta síntesis definitiva. Mediante su pacto, las deidades pusieron fin a sus guerras insensatas y destructivas, que habían provocado el caos contra el que ahora se unían. Acordaron aceptar una base común de existencia, compartir la responsabilidad de proteger el reino y preservar su condición actual en el universo. De este modo, quedaron irrevocablemente ligadas a la matriz espiritual de la nueva era.
+
+Sus juramentos son la fuente y la causa del Tiempo; las energías de este compromiso proporcionaron la esencia anímica de la nueva era. Los antiguos dioses crearon la voluntad de la nueva era y se comprometieron a sostenerla. Cuanto más poderosa era una deidad, más numerosos eran los compromisos que la vinculaban a la matriz del mundo y más firmemente quedaba petrificado su papel en el Tiempo venidero. Si el mundo quebranta las leyes del Tiempo, entonces habrá sucedido lo imposible y el Caos regresará al mundo. La manifestación más impresionante de ello se produjo durante las Guerras de Gbaji, que pusieron fin a la Primera Era, como se explica más adelante.
+
+El Tiempo separa para siempre a los dioses y su mundo de la destrucción a la que se habían sometido durante la Era de los Dioses. Forjaron el pacto para garantizar su supervivencia, y el mundo optó por volverse estancado antes que dejar de existir. Los dioses sacrificaron su libertad a cambio de la inmortalidad. El equilibrio entre los extremos de la creación y la destrucción se moderó mediante la alternancia cíclica de esos extremos entre los participantes. Todo cuanto había muerto durante la Guerra de los Dioses debía permanecer muerto durante la mitad del Tiempo, pero también estar vivo durante la otra mitad. Por ello, el mundo que constituía los cuerpos de los dioses quedó sujeto a esos cambios, y las energías mágicas del mundo siguieron también ese flujo y ese patrón. Así, durante el invierno las deidades de la Tierra y del Fuego son débiles, mientras que en verano los dioses del Fuego alcanzan su máximo poder.
+
+Sin embargo, dentro del mundo del Tiempo habitan también otros seres que no participaron en el Compromiso. Son las razas mortales que sobrevivieron. A diferencia de los dioses, los mortales conservaron su libertad. Pueden imponer su voluntad al mundo y modificarlo, aunque solo en pequeña medida.
+
+Los seres del Caos que sobrevivieron a la Oscuridad y al Amanecer pertenecen a una segunda categoría de entidades. Pocos espíritus del Caos sobrevivieron lo suficiente como para llegar a ser venerados como deidades. Los más importantes de entre ellos se describen en este libro. Por tanto, quedan pocos dioses del Caos.
+
+Las razas mortales del Caos son mucho más numerosas. Consiguieron ocultarse en los lugares olvidados del mundo o atrincherarse en unos pocos bastiones.
+
+Una de las distinciones más claras establecidas por el Compromiso es que el Caos no forma parte del mundo. Las deidades y los poderes del mundo habían entrado en contacto con él, seguían temiéndolo y, para poder continuar existiendo, necesitaban mantenerse apartados de él. El Caos se convirtió en el enemigo al que era necesario combatir y someter. Al reconocer todos un enemigo común, las deidades pendencieras encontraron un motivo para unirse.
+
+# Tipos de Tiempo
+
+La forma del Tiempo fue consecuencia del Compromiso. Como ya se ha dicho, antes de aquel acuerdo reinaban la confusión y una lucha atroz. La Muerte, e incluso partes del Caos, estaban profundamente entremezcladas con el mundo. El Tiempo reorganizó aquella confusión, estableciendo una regularidad entre la Luz y la Oscuridad, la Vida y la Muerte, y las demás medidas temporales.
+
+Algunos cultos creen en el **Tiempo Lineal** y sostienen que, una vez iniciado, el Tiempo continuará avanzando eternamente en una línea ininterrumpida hacia el futuro, o hasta que el mundo llegue a su fin.
+
+El **Tiempo Cíclico**, defendido por muchos cultos, sostiene que ciertos acontecimientos —como el día y la noche, la alternancia de las estaciones, los ciclos lunares, las mareas y la renovación espiritual— son un mismo suceso que se repite una y otra vez. Las pequeñas diferencias locales y mundanas que podemos observar no indican un cambio verdadero, sino que miden el alejamiento de los mortales respecto de las fuentes primordiales.
+
+El **Tiempo Ilusorio** es esa sucesión de acontecimientos que parece manifestarse cuando volvemos la mirada hacia los mitos del Tiempo Divino o contemplamos las actividades de quienes emprenden búsquedas heroicas en aquel reino de leyenda y magia. Desde una perspectiva cosmológica, el mundo del Tiempo Divino existe únicamente en un estado de inmovilidad, más allá del Tiempo, mientras que el Caos se encuentra en el polo opuesto. La realidad se extiende entre ambos, y solo es posible alcanzar los reinos inexistentes cuando los individuos imponen el Tiempo Ilusorio sobre el Tiempo Divino, provocando enormes repercusiones filosóficas y taumaturgicas.
+
+[Vamos por Calendrical time, page 134]
